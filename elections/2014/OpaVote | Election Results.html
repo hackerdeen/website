@@ -1,0 +1,305 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+<title>OpaVote | Election Results</title>
+<meta property="fb:admins" content="100004130346820" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<link href="https://plus.google.com/111850198888069322953" rel="publisher" />
+<link rel="shortcut icon" href="/static/img/favicon.ico" />
+<link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/themes/base/jquery-ui.css" type="text/css" rel="stylesheet" />
+<link type="text/css" rel="stylesheet" href="/static/css/main.css" />
+<!--This doesn't work if in css file.-->
+<style type="text/css">a:link, a:visited {text-decoration: none; color: #7076c2;}</style>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/static/js/jquery.ui.touch-punch.min.js"></script>
+<style type="text/css">.ui-widget { font-size: 1.0em; }</style>
+<script src="/static/js/election.js" type="text/javascript"></script>
+
+
+
+
+<style type="text/css">
+div#header2 {width: 800px;}
+div#content {width: 800px;}
+div#footer2 {width: 800px;}
+</style>
+<meta name="viewport" content="width=804" />
+<link type="text/css" rel="stylesheet" href="/static/css/election.css" />
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+    google.load('visualization', '1.0', {'packages':['corechart']});
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+  $('#message_box').dialog({
+    modal: true,
+    width: 400,
+    resizable: false,
+    autoOpen: false,
+    title: 'Error'
+  });
+
+  
+});
+</script>
+
+</head>
+
+<body> 
+
+<!-- Needed for FB like button -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=422629004460648&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="container">
+
+<div id="header1">
+<div id="header2">
+
+<table style="width:100%">
+<tr>
+<td style="vertical-align:baseline;text-align:left;">
+<a href="/"><img src="https://57north.co/w/images/b/bb/57_North_WLL_2000px.png" style="padding:5px 0; width: 20em;" /></a>
+</td>
+<td style="vertical-align:baseline;text-align:right;">
+<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fopavote&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowTransparency="true"></iframe>
+</td>
+</tr>
+</table>
+
+
+</div>
+</div>
+
+<div id="content">
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Director</title>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+    google.load("visualization", "1.0", {"packages":["corechart"]});
+</script>
+</head>
+<body>
+<h1>Director</h1>
+<p> Counting votes using Meek STV. There are 7 candidates competing for 5 seats. 
+The number of votes is 16 and there were 16 valid votes.</p>
+<ul>
+<li><a href="#anchor-1">Round 1</a>
+<li><a href="#anchor-2">Round 2</a>
+<li><a href="#anchor-3">Round 3</a>
+<li><a href="#anchor-4">Round 4</a>
+<li><a href="#anchor-5">Round 5</a>
+</ul>
+<p> The bar charts below show the vote counts for each candidate in each round.
+Place the mouse over a bar to see the number of votes.</p>
+<ul>
+<li> Yellow &mdash; Votes carried over from the previous round.
+<li> Green &mdash; Votes received in this round.
+<li> Red &mdash; Votes transferred away in this round.
+</ul>
+<p> A candidate's votes in a round is the sum of the yellow and green bars.
+Since the green and red bars represent votes being transferred, the sum of the 
+green and red bars is the same. </p>
+<p> The exhausted bar represents votes where the voter did not indicate a next 
+preference and thus there were no candidates to transfer the vote to.  The 
+threshold bar (where shown) indicates the number of votes that ensures that a 
+candidate will win a seat. </p>
+<hr>
+<h3 style="margin-bottom:0"><a id="anchor-1">Round 1</a></h3>
+<p style="margin-top:0;font-size:small;">(<a href="#anchor-2">next</a>)</p><div id="187284-1"></div>
+<script type="text/javascript">
+var data = new google.visualization.DataTable();
+data.addColumn("string", "Candidate");
+data.addColumn("number", "Votes");
+data.addColumn({type:"string", role:"tooltip"});
+data.addColumn({type: "boolean", role:"certainty"});
+data.addColumn("number", "Received");
+data.addColumn({type:"string", role:"tooltip"});
+data.addColumn("number", "Transferred");
+data.addColumn({type:"string", role:"tooltip"});
+data.addRows([["Edward Watson (nordin)", 2.000000, "Votes: 2.000000", true, 0.000000, "Votes: 2.000000", 0.000000, "Votes: 2.000000"],["Cameron Turner (Shell)", 1.000000, "Votes: 1.000000", true, 0.000000, "Votes: 1.000000", 0.000000, "Votes: 1.000000"],["Andrea Faulds (ajf)", 1.000000, "Votes: 1.000000", true, 0.000000, "Votes: 1.000000", 0.000000, "Votes: 1.000000"],["Carl Anderson (noodle)", 1.000000, "Votes: 1.000000", true, 0.000000, "Votes: 1.000000", 0.000000, "Votes: 1.000000"],["Dave Hibberd (hibby)", 2.000000, "Votes: 2.000000", true, 0.000000, "Votes: 2.000000", 0.000000, "Votes: 2.000000"],["Robert McWilliam (ormiret)", 5.000000, "Votes: 5.000000", true, 0.000000, "Votes: 5.000000", 0.000000, "Votes: 5.000000"],["Tom Jones (adventureloop)", 4.000000, "Votes: 4.000000", true, 0.000000, "Votes: 4.000000", 0.000000, "Votes: 4.000000"],["Exhausted", 0.000000, "Votes: 0.000000", true, 0.000000, "Votes: 0.000000", 0.000000, "Votes: 0.000000"],["Threshold", 2.666667, "Threshold: 2.666667", false, 0, null, 0, null]]);
+var formatter = new google.visualization.NumberFormat({fractionDigits:6});
+formatter.format(data, 1);
+formatter.format(data, 3);
+formatter.format(data, 5);
+var options = {
+width:760,
+height:275,
+legend:{position:"none"},
+chartArea:{left:100,top:0,width:660,height:250},
+hAxis:{maxValue:5},
+isStacked:true,
+colors:["#fcd050", "#87cf32", "#ef3638"],
+};
+var chart = new google.visualization.BarChart(document.getElementById("187284-1"));
+chart.draw(data, options);
+</script>
+<p>Count of first choices. Candidates Robert McWilliam (ormiret) and Tom Jones (adventureloop) have reached the threshold and are elected. </p>
+<hr>
+<h3 style="margin-bottom:0"><a id="anchor-2">Round 2</a></h3>
+<p style="margin-top:0;font-size:small;">(<a href="#anchor-1">prev</a>) (<a href="#anchor-3">next</a>)</p><div id="187284-2"></div>
+<script type="text/javascript">
+var data = new google.visualization.DataTable();
+data.addColumn("string", "Candidate");
+data.addColumn("number", "Votes");
+data.addColumn({type:"string", role:"tooltip"});
+data.addColumn({type: "boolean", role:"certainty"});
+data.addColumn("number", "Received");
+data.addColumn({type:"string", role:"tooltip"});
+data.addColumn("number", "Transferred");
+data.addColumn({type:"string", role:"tooltip"});
+data.addRows([["Edward Watson (nordin)", 2.000000, "Votes: 4.066664\nReceived: 2.066664", true, 2.066664, "Votes: 4.066664\nReceived: 2.066664", 0.000000, "Votes: 4.066664\nReceived: 2.066664"],["Cameron Turner (Shell)", 1.000000, "Votes: 1.000000", true, 0.000000, "Votes: 1.000000", 0.000000, "Votes: 1.000000"],["Andrea Faulds (ajf)", 1.000000, "Votes: 1.000000", true, 0.000000, "Votes: 1.000000", 0.000000, "Votes: 1.000000"],["Carl Anderson (noodle)", 1.000000, "Votes: 1.466666\nReceived: 0.466666", true, 0.466666, "Votes: 1.466666\nReceived: 0.466666", 0.000000, "Votes: 1.466666\nReceived: 0.466666"],["Dave Hibberd (hibby)", 2.000000, "Votes: 3.133332\nReceived: 1.133332", true, 1.133332, "Votes: 3.133332\nReceived: 1.133332", 0.000000, "Votes: 3.133332\nReceived: 1.133332"],["Robert McWilliam (ormiret)", 2.666670, "Votes: 2.666670\nTransferred: 2.333330", true, 0.000000, "Votes: 2.666670\nTransferred: 2.333330", 2.333330, "Votes: 2.666670\nTransferred: 2.333330"],["Tom Jones (adventureloop)", 2.666668, "Votes: 2.666668\nTransferred: 1.333332", true, 0.000000, "Votes: 2.666668\nTransferred: 1.333332", 1.333332, "Votes: 2.666668\nTransferred: 1.333332"],["Exhausted", 0.000000, "Votes: 0.000000", true, 0.000000, "Votes: 0.000000", 0.000000, "Votes: 0.000000"],["Threshold", 2.666667, "Threshold: 2.666667", false, 0, null, 0, null]]);
+var formatter = new google.visualization.NumberFormat({fractionDigits:6});
+formatter.format(data, 1);
+formatter.format(data, 3);
+formatter.format(data, 5);
+var options = {
+width:760,
+height:275,
+legend:{position:"none"},
+chartArea:{left:100,top:0,width:660,height:250},
+hAxis:{maxValue:5},
+isStacked:true,
+colors:["#fcd050", "#87cf32", "#ef3638"],
+};
+var chart = new google.visualization.BarChart(document.getElementById("187284-2"));
+chart.draw(data, options);
+</script>
+<p>Count after transferring surplus votes. Keep factors of candidates who have exceeded the threshold: Robert McWilliam (ormiret), 0.533334 and Tom Jones (adventureloop), 0.666667. Candidates Edward Watson (nordin) and Dave Hibberd (hibby) have reached the threshold and are elected. </p>
+<hr>
+<h3 style="margin-bottom:0"><a id="anchor-3">Round 3</a></h3>
+<p style="margin-top:0;font-size:small;">(<a href="#anchor-2">prev</a>) (<a href="#anchor-4">next</a>)</p><div id="187284-3"></div>
+<script type="text/javascript">
+var data = new google.visualization.DataTable();
+data.addColumn("string", "Candidate");
+data.addColumn("number", "Votes");
+data.addColumn({type:"string", role:"tooltip"});
+data.addColumn({type: "boolean", role:"certainty"});
+data.addColumn("number", "Received");
+data.addColumn({type:"string", role:"tooltip"});
+data.addColumn("number", "Transferred");
+data.addColumn({type:"string", role:"tooltip"});
+data.addRows([["Edward Watson (nordin)", 2.909737, "Votes: 2.909737\nTransferred: 1.156927", true, 0.000000, "Votes: 2.909737\nTransferred: 1.156927", 1.156927, "Votes: 2.909737\nTransferred: 1.156927"],["Cameron Turner (Shell)", 1.000000, "Votes: 1.160654\nReceived: 0.160654", true, 0.160654, "Votes: 1.160654\nReceived: 0.160654", 0.000000, "Votes: 1.160654\nReceived: 0.160654"],["Andrea Faulds (ajf)", 1.000000, "Votes: 1.000000", true, 0.000000, "Votes: 1.000000", 0.000000, "Votes: 1.000000"],["Carl Anderson (noodle)", 1.466666, "Votes: 2.016660\nReceived: 0.549994", true, 0.549994, "Votes: 2.016660\nReceived: 0.549994", 0.000000, "Votes: 2.016660\nReceived: 0.549994"],["Dave Hibberd (hibby)", 2.907568, "Votes: 2.907568\nTransferred: 0.225764", true, 0.000000, "Votes: 2.907568\nTransferred: 0.225764", 0.225764, "Votes: 2.907568\nTransferred: 0.225764"],["Robert McWilliam (ormiret)", 2.666670, "Votes: 2.772575\nReceived: 0.105905", true, 0.105905, "Votes: 2.772575\nReceived: 0.105905", 0.000000, "Votes: 2.772575\nReceived: 0.105905"],["Tom Jones (adventureloop)", 2.666668, "Votes: 3.232784\nReceived: 0.566116", true, 0.566116, "Votes: 3.232784\nReceived: 0.566116", 0.000000, "Votes: 3.232784\nReceived: 0.566116"],["Exhausted", 0.000000, "Votes: 0.000022\nReceived: 0.000022", true, 0.000022, "Votes: 0.000022\nReceived: 0.000022", 0.000000, "Votes: 0.000022\nReceived: 0.000022"],["Threshold", 2.666664, "Threshold: 2.666664", false, 0, null, 0, null]]);
+var formatter = new google.visualization.NumberFormat({fractionDigits:6});
+formatter.format(data, 1);
+formatter.format(data, 3);
+formatter.format(data, 5);
+var options = {
+width:760,
+height:275,
+legend:{position:"none"},
+chartArea:{left:100,top:0,width:660,height:250},
+hAxis:{maxValue:5},
+isStacked:true,
+colors:["#fcd050", "#87cf32", "#ef3638"],
+};
+var chart = new google.visualization.BarChart(document.getElementById("187284-3"));
+chart.draw(data, options);
+</script>
+<p>Count after transferring surplus votes. Keep factors of candidates who have exceeded the threshold: Edward Watson (nordin), 0.655739; Dave Hibberd (hibby), 0.851065; Robert McWilliam (ormiret), 0.533334; and Tom Jones (adventureloop), 0.666667. </p>
+<hr>
+<h3 style="margin-bottom:0"><a id="anchor-4">Round 4</a></h3>
+<p style="margin-top:0;font-size:small;">(<a href="#anchor-3">prev</a>) (<a href="#anchor-5">next</a>)</p><div id="187284-4"></div>
+<script type="text/javascript">
+var data = new google.visualization.DataTable();
+data.addColumn("string", "Candidate");
+data.addColumn("number", "Votes");
+data.addColumn({type:"string", role:"tooltip"});
+data.addColumn({type: "boolean", role:"certainty"});
+data.addColumn("number", "Received");
+data.addColumn({type:"string", role:"tooltip"});
+data.addColumn("number", "Transferred");
+data.addColumn({type:"string", role:"tooltip"});
+data.addRows([["Edward Watson (nordin)", 2.909737, "Votes: 2.972978\nReceived: 0.063241", true, 0.063241, "Votes: 2.972978\nReceived: 0.063241", 0.000000, "Votes: 2.972978\nReceived: 0.063241"],["Cameron Turner (Shell)", 1.160654, "Votes: 1.194347\nReceived: 0.033693", true, 0.033693, "Votes: 1.194347\nReceived: 0.033693", 0.000000, "Votes: 1.194347\nReceived: 0.033693"],["Andrea Faulds (ajf)", 1.000000, "Votes: 1.000000", true, 0.000000, "Votes: 1.000000", 0.000000, "Votes: 1.000000"],["Carl Anderson (noodle)", 2.016660, "Votes: 2.346663\nReceived: 0.330003", true, 0.330003, "Votes: 2.346663\nReceived: 0.330003", 0.000000, "Votes: 2.346663\nReceived: 0.330003"],["Dave Hibberd (hibby)", 2.907568, "Votes: 2.992522\nReceived: 0.084954", true, 0.084954, "Votes: 2.992522\nReceived: 0.084954", 0.000000, "Votes: 2.992522\nReceived: 0.084954"],["Robert McWilliam (ormiret)", 2.748027, "Votes: 2.748027\nTransferred: 0.024548", true, 0.000000, "Votes: 2.748027\nTransferred: 0.024548", 0.024548, "Votes: 2.748027\nTransferred: 0.024548"],["Tom Jones (adventureloop)", 2.745443, "Votes: 2.745443\nTransferred: 0.487341", true, 0.000000, "Votes: 2.745443\nTransferred: 0.487341", 0.487341, "Votes: 2.745443\nTransferred: 0.487341"],["Exhausted", 0.000020, "Votes: 0.000020\nTransferred: 0.000002", true, 0.000000, "Votes: 0.000020\nTransferred: 0.000002", 0.000000, "Votes: 0.000020\nTransferred: 0.000002"],["Threshold", 2.666664, "Threshold: 2.666664", false, 0, null, 0, null]]);
+var formatter = new google.visualization.NumberFormat({fractionDigits:6});
+formatter.format(data, 1);
+formatter.format(data, 3);
+formatter.format(data, 5);
+var options = {
+width:760,
+height:275,
+legend:{position:"none"},
+chartArea:{left:100,top:0,width:660,height:250},
+hAxis:{maxValue:5},
+isStacked:true,
+colors:["#fcd050", "#87cf32", "#ef3638"],
+};
+var chart = new google.visualization.BarChart(document.getElementById("187284-4"));
+chart.draw(data, options);
+</script>
+<p>Count after transferring surplus votes. Keep factors of candidates who have exceeded the threshold: Edward Watson (nordin), 0.600961; Dave Hibberd (hibby), 0.780551; Robert McWilliam (ormiret), 0.512961; and Tom Jones (adventureloop), 0.549922. </p>
+<hr>
+<h3 style="margin-bottom:0"><a id="anchor-5">Round 5</a></h3>
+<p style="margin-top:0;font-size:small;">(<a href="#anchor-4">prev</a>) </p><div id="187284-5"></div>
+<script type="text/javascript">
+var data = new google.visualization.DataTable();
+data.addColumn("string", "Candidate");
+data.addColumn("number", "Votes");
+data.addColumn({type:"string", role:"tooltip"});
+data.addColumn({type: "boolean", role:"certainty"});
+data.addColumn("number", "Received");
+data.addColumn({type:"string", role:"tooltip"});
+data.addColumn("number", "Transferred");
+data.addColumn({type:"string", role:"tooltip"});
+data.addRows([["Edward Watson (nordin)", 2.835542, "Votes: 2.835542\nTransferred: 0.137436", true, 0.000000, "Votes: 2.835542\nTransferred: 0.137436", 0.137436, "Votes: 2.835542\nTransferred: 0.137436"],["Cameron Turner (Shell)", 1.194347, "Votes: 1.231504\nReceived: 0.037157", true, 0.037157, "Votes: 1.231504\nReceived: 0.037157", 0.000000, "Votes: 1.231504\nReceived: 0.037157"],["Andrea Faulds (ajf)", 1.000000, "Votes: 1.000000", true, 0.000000, "Votes: 1.000000", 0.000000, "Votes: 1.000000"],["Carl Anderson (noodle)", 2.346663, "Votes: 2.686593\nReceived: 0.339930", true, 0.339930, "Votes: 2.686593\nReceived: 0.339930", 0.000000, "Votes: 2.686593\nReceived: 0.339930"],["Dave Hibberd (hibby)", 2.762240, "Votes: 2.762240\nTransferred: 0.230282", true, 0.000000, "Votes: 2.762240\nTransferred: 0.230282", 0.230282, "Votes: 2.762240\nTransferred: 0.230282"],["Robert McWilliam (ormiret)", 2.731442, "Votes: 2.731442\nTransferred: 0.016585", true, 0.000000, "Votes: 2.731442\nTransferred: 0.016585", 0.016585, "Votes: 2.731442\nTransferred: 0.016585"],["Tom Jones (adventureloop)", 2.745443, "Votes: 2.752661\nReceived: 0.007218", true, 0.007218, "Votes: 2.752661\nReceived: 0.007218", 0.000000, "Votes: 2.752661\nReceived: 0.007218"],["Exhausted", 0.000018, "Votes: 0.000018\nTransferred: 0.000002", true, 0.000000, "Votes: 0.000018\nTransferred: 0.000002", 0.000000, "Votes: 0.000018\nTransferred: 0.000002"],["Threshold", 2.666664, "Threshold: 2.666664", false, 0, null, 0, null]]);
+var formatter = new google.visualization.NumberFormat({fractionDigits:6});
+formatter.format(data, 1);
+formatter.format(data, 3);
+formatter.format(data, 5);
+var options = {
+width:760,
+height:275,
+legend:{position:"none"},
+chartArea:{left:100,top:0,width:660,height:250},
+hAxis:{maxValue:5},
+isStacked:true,
+colors:["#fcd050", "#87cf32", "#ef3638"],
+};
+var chart = new google.visualization.BarChart(document.getElementById("187284-5"));
+chart.draw(data, options);
+</script>
+<p>Count after transferring surplus votes. Keep factors of candidates who have exceeded the threshold: Edward Watson (nordin), 0.539043; Dave Hibberd (hibby), 0.695557; Robert McWilliam (ormiret), 0.497774; and Tom Jones (adventureloop), 0.534143. Candidate Carl Anderson (noodle) has reached the threshold and is elected. </p>
+<hr>
+<h3>Winners</h3>
+<p>Winners are Edward Watson (nordin), Carl Anderson (noodle), Dave Hibberd (hibby), Robert McWilliam (ormiret), and Tom Jones (adventureloop).</p>
+</body>
+</html>
+
+
+</div>
+
+</div>
+
+<div id="message_box"></div>
+
+<div id="footer1">
+<div id="footer2">
+<table width="100%">
+<tr>
+<td width="33%"><a class="menu" href="/contact">Contact</a></td>
+<td width="34%"><a class="menu" href="/terms">Terms and Conditions</a></td>
+<td width="33%"><a class="menu" href="/privacy">Privacy Policy</a></td>
+</tr>
+</table>
+</div>
+</div>
+
+
+</body>
+</html>
