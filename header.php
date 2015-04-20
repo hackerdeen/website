@@ -94,9 +94,9 @@ try {
             </div>
             <div class="modal-body">
 <div class="alert alert-danger">
-WARNING: Facebook were previosly known to violate your privacy!
+WARNING: Facebook were previously known to violate your privacy!
 </div>
-The EFF have given Facebook 6/6 stars on their <a target="_blank" href="https://www.eff.org/who-has-your-back-2014/">privacy scorecard for 2014</a>, but previosly they scored quite badly.
+The EFF have given Facebook 6/6 stars on their <a target="_blank" href="https://www.eff.org/who-has-your-back-2014/">privacy scorecard for 2014</a>, but previously they scored quite badly.
             </div>
             <div class="modal-footer">
                 <a href="https://www.facebook.com/57NorthHacklab" target="_blank" class="btn btn-danger">Proceed to Facebook</a>
