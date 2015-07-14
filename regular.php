@@ -6,7 +6,6 @@
         <div class="col-md-12">
 		<h1>Events &raquo; Regular Events</h1>
 <?php include('eventsbar.php'); ?>
-<p>There are a few regular events at 57North Hacklab that happen weekly. Details can be found below.</p>
 
 <div class="panel panel-primary">
   <div class="panel-heading">Tuesday Meetup</div>
