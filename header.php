@@ -84,48 +84,6 @@ try {
 
 <body>
 
-<!-- Facebook Modal -->
-<div class="modal fade" id="facebookModal" tabindex="-1" role="dialog" aria-labelledby="facebookModal" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">X</button>
-                <h4 class="modal-title" id="myModalLabel">Your civil liberties are at stake</h4>
-            </div>
-            <div class="modal-body">
-<div class="alert alert-danger">
-WARNING: Facebook were previously known to violate your privacy!
-</div>
-The EFF have given Facebook 6/6 stars on their <a target="_blank" href="https://www.eff.org/who-has-your-back-2014/">privacy scorecard for 2014</a>, but previously they scored quite badly.
-            </div>
-            <div class="modal-footer">
-                <a href="https://www.facebook.com/57NorthHacklab" target="_blank" class="btn btn-danger">Proceed to Facebook</a>
-            </div>
-        </div><!-- modal-content -->
-    </div><!-- modal-dialog -->
-</div><!-- modal -->
-
-<!-- Google+ Modal -->
-<div class="modal fade" id="googlePlusModal" tabindex="-1" role="dialog" aria-labelledby="googlePlusModal" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">X</button>
-                <h4 class="modal-title" id="myModalLabel">Your civil liberties are at stake</h4>
-            </div>
-            <div class="modal-body">
-<div class="alert alert-danger">
-WARNING: Google is known to violate your privacy!
-</div>
-The EFF have only given Google 5/6 stars on their <a target="_blank" href="https://www.eff.org/who-has-your-back-2013/">privacy scorecard for 2013</a>.
-            </div>
-            <div class="modal-footer">
-                <a href="https://plus.google.com/+HackerdeenOrg" target="_blank" class="btn btn-danger">Proceed to Google+</a>
-            </div>
-        </div><!-- modal-content -->
-    </div><!-- modal-dialog -->
-</div><!-- modal -->
-
     <div class="boxed animated fadeIn animation-delay-5">
 
         <header id="header" class="hidden-xs">
@@ -133,8 +91,8 @@ The EFF have only given Google 5/6 stars on their <a target="_blank" href="https
 
                 <div style="text-align: right; padding-top: 30px; position:absolute; z-index:2; right: 10px;" class="animated fadeInDown hidden-xs">
                     <a href="https://twitter.com/57NorthHacklab" class="social-icon soc-twitter"><i class="fa fa-twitter"></i></a>
-                    <a href="https://plus.google.com/+HackerdeenOrg" type="button" class="social-icon soc-google-plus animated fadeInDown animation-delay-2" data-toggle="modal" data-target="#googlePlusModal"><i class="fa fa-google-plus"></i></a>
-                    <a href="https://facebook.com/57NorthHacklab" type="button" class="social-icon soc-facebook animated fadeInDown animation-delay-3" data-toggle="modal" data-target="#facebookModal"><i class="fa fa-facebook"></i></a><br>
+                    <a href="https://plus.google.com/+HackerdeenOrg" type="button" class="social-icon soc-google-plus animated fadeInDown animation-delay-2"><i class="fa fa-google-plus"></i></a>
+                    <a href="https://facebook.com/57NorthHacklab" type="button" class="social-icon soc-facebook animated fadeInDown animation-delay-3"><i class="fa fa-facebook"></i></a><br>
 		<div style="margin:0;">The space is currently <?php echo($state); ?>: "<?php echo($message); ?>"</div>
 		</div>
                 <div id="header-title" style="width: 100%;">
