@@ -88,7 +88,7 @@
                                     </h4>
                                 </div>
 
-                                <div id="collapseOne" class="panel-collapse collapse">
+                                <div id="collapseOne" class="panel-collapse collapse in">
                                     <div class="panel-body">
                                         Every Tuesday at 1900h there is a meetup at the space not only for members but also for those that may want to join us. Typically, the projects people will be working on will be announced on the mailing list in advance of the meeting.
                                     </div>
@@ -102,7 +102,7 @@
                                         </a>
                                     </h4>
                                 </div>
-                                <div id="collapseTwo" class="panel-collapse collapse in">
+                                <div id="collapseTwo" class="panel-collapse collapse">
                                     <div class="panel-body">
                                         Workshops are occasionally organised by 57North's members and are open to the public. You can find more details about upcoming workshops on our events page.
                                     </div>
