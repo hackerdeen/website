@@ -1,16 +1,16 @@
 
 RewriteEngine On
 
-RewriteRule ^about$ /about.php [L]
-RewriteRule ^events$ /calendar [R,L]
-RewriteRule ^calendar$ /calendar.php [L]
-RewriteRule ^contact$ /contact.php [L]
-RewriteRule ^projects$ /projects.php [L]
-RewriteRule ^gallery$ /gallery.php [L]
-RewriteRule ^workshops$ /workshops.php [L]
-RewriteRule ^regularevents$ /regular.php [L]
-RewriteRule ^themedthursdays$ /themedthursdays.php [L]
-RewriteRule ^apply$ /apply.php [L]
+RewriteRule ^about$ about.php [L]
+RewriteRule ^events$ calendar [R,L]
+RewriteRule ^calendar$ calendar.php [L]
+RewriteRule ^contact$ contact.php [L]
+RewriteRule ^projects$ projects.php [L]
+RewriteRule ^gallery$ gallery.php [L]
+RewriteRule ^workshops$ workshops.php [L]
+RewriteRule ^regularevents$ regular.php [L]
+RewriteRule ^themedthursdays$ themedthursdays.php [L]
+RewriteRule ^apply$ apply.php [L]
 
 RewriteRule ^webcam$ /creepycam [R,L]
 RewriteRule ^creepycam$ /creepycam.html [L]
