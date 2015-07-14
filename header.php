@@ -116,7 +116,7 @@ try {
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse navbar-mind-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="">Home</a></li>
+                        <li><a href=".">Home</a></li>
                         <li><a href="about">About</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events <b class="caret"></b></a>
