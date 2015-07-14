@@ -83,26 +83,12 @@
                                 <div class="panel-heading">
                                     <h4 class="panel-title">
                                         <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-                                            Workshops
-                                        </a>
-                                    </h4>
-                                </div>
-                                <div id="collapseOne" class="panel-collapse collapse in">
-                                    <div class="panel-body">
-                                        Workshops are regularly organised by 57North's members and are open to the public. You can find more details about upcoming workshops on our events page.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="panel panel-default">
-                                <div class="panel-heading">
-                                    <h4 class="panel-title">
-                                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" class="collapsed">
                                             Tuesday Meetup
                                         </a>
                                     </h4>
                                 </div>
 
-                                <div id="collapseTwo" class="panel-collapse collapse">
+                                <div id="collapseOne" class="panel-collapse collapse">
                                     <div class="panel-body">
                                         Every Tuesday at 1900h there is a meetup at the space not only for members but also for those that may want to join us. Typically, the projects people will be working on will be announced on the mailing list in advance of the meeting.
                                     </div>
@@ -111,28 +97,14 @@
                             <div class="panel panel-default">
                                 <div class="panel-heading">
                                     <h4 class="panel-title">
-                                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" class="collapsed">
-                                            Themed Thursdays
+                                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" class="collapsed">
+                                            Workshops
                                         </a>
                                     </h4>
                                 </div>
-                                <div id="collapseThree" class="panel-collapse collapse">
+                                <div id="collapseTwo" class="panel-collapse collapse in">
                                     <div class="panel-body">
-<p>Every Thursday at 1900h there is a themed meetup at the space not only for members but also for those where the themed event is of interest to them. These themed events are free for members to attend. Non-members will be required to pay a fee of £5 to help cover the running costs of the space.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="panel panel-default">
-                                <div class="panel-heading">
-                                    <h4 class="panel-title">
-                                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" class="collapsed">
-                                            Saturday Meetup
-                                        </a>
-                                    </h4>
-                                </div>
-                                <div id="collapseFour" class="panel-collapse collapse">
-                                    <div class="panel-body">
-                                        Every Saturday from 1400h, a keyholder will be available to open the space. The Saturday meetup is for members only who want to work on their projects. Typically, those attending will announce their intention to attend on the mailing list in advance.
+                                        Workshops are occasionally organised by 57North's members and are open to the public. You can find more details about upcoming workshops on our events page.
                                     </div>
                                 </div>
                             </div>
