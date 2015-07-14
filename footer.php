@@ -8,13 +8,10 @@
                             <li><a href="/">Home</a></li>
                             <li><a href="/about">About</a></li>
                             <li><a href="/calendar">Calendar</a></li>
-                            <li><a href="/workshops">Workshops</a></li>
                             <li><a href="/gallery">Gallery</a></li>
                             <li><a href="/contact">Contact</a></li>
-                            <li><a href="/press">Press</a></li>
                             <li><a href="https://wiki.57north.org.uk/">Wiki</a></li>
 			    <li><a href="https://planet.57north.org.uk/">Planet</a></li>
-                            <li><a href="http://campGND.com/" title="campGND">campGND</a></li>
                         </ul>
                     </div>
                     <div class="col-md-4">
@@ -22,7 +19,7 @@
                     </div>
                     <div class="col-md-4">
                         <h3 class="footer-widget-title">Subscribe</h3>
-                        <p>Subscribe to the 57North Hacklab discussion list to communicate with the members and stay up-to-date on events.</p>
+                        <p>Subscribe to the 57North Hacklab announce list to stay up-to-date on events.</p>
 			<form action="http://lists.57north.co/subscribe/57north-announce">
                         <div class="input-group">
                             <input type="text" class="form-control" placeholder="Email Adress" name="email">
