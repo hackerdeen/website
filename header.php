@@ -64,7 +64,7 @@ try {
     <link href="css/syntax/shThemeDefault.css" rel="stylesheet"  media="screen">
     <link href="css/color-default.css" rel="stylesheet" media="screen" title="default">
 
-    <?php if(rand(1, 100) > 98) { ?>
+    <?php if(rand(1, 100) > 90) { ?>
     <link href="css/style.hp.css" rel="stylesheet" media="screen" title="default">
     <?php } else { ?>
     <link href="css/style.css" rel="stylesheet" media="screen" title="default">
