@@ -164,8 +164,6 @@ The EFF have only given Google 5/6 stars on their <a target="_blank" href="https
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="/regularevents">Regular Events</a></li>
-                                <li><a href="/workshops">Workshops</a></li>
-                                <li><a href="/themedthursdays">Themed Thursdays</a></li>
                                 <li><a href="/calendar">Calendar</a></li>
                             </ul>
                         </li> <!-- dropdown -->
