@@ -127,6 +127,7 @@ try {
                         </li> <!-- dropdown -->
                         <!-- li><a href="/projects">Projects</a></li -->
                         <li><a href="gallery">Gallery</a></li>
+			<li><a href="news/">News</a></li>
                         <li><a href="contact">Contact</a></li>
 			<li class="visible-xs"><a href="http://hackerspaces.shiftout.com/wiki/57North+Hacklab">Status</a></li>
                     </ul> <!-- nav nabvar-nav -->
