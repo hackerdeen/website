@@ -11,6 +11,7 @@ RewriteRule ^workshops$ workshops.php [L]
 RewriteRule ^regularevents$ regular.php [L]
 RewriteRule ^themedthursdays$ themedthursdays.php [L]
 RewriteRule ^apply$ apply.php [L]
+RewriteRule ^irclinks$ irclinks.php [L]
 
 RewriteRule ^webcam$ /creepycam [R,L]
 RewriteRule ^creepycam$ /creepycam.html [L]
