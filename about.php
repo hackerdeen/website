@@ -34,7 +34,7 @@ include('header.php'); ?>
         <div class="row">
         <div class="col-md-6">
 <br style="clear:both;">
-        <img src="https://pbs.twimg.com/profile_images/456189713024425984/ZxC4ObQH.jpeg" style="width:90px;height:90px;" class="img-responsive alignleft imageborder">
+        <img src="/img/hibby.jpg" style="width:90px;height:90px;" class="img-responsive alignleft imageborder">
         <strong>Hibby</strong><br><small>
 Hibby's an engineer who works in telecoms and plays with radios.  He happens to have a mad passion for coffee, tea, music, technology, The occasional gin and shiny things.</small>
         </div>
@@ -62,7 +62,7 @@ I enjoy taking MOOCs, reading manuals, building things for my cat and being a ra
 <br style="clear:both;">
         <img style="width: 90px;" src="/img/rob.jpg"  class="img-responsive alignleft imageborder">
         <strong>Robert McWilliam</strong>
-	<br><small>I am an electronic engineer, working with FPGAs for accelerating computing or communication.</small>
+	<br><small>I am an electronic engineer, working with FPGAs for accelerating computing or communication. For fun I play with a wider variety of electronics and occasionally build actual physical things.</small>
         </div>
 	<div class="col-md-6"></div>
 	</div>
