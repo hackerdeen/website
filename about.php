@@ -52,7 +52,7 @@ Hibby's an engineer who works in telecoms and plays with radios.  He happens to 
         </div>
         <div class="col-md-6">
 <br style="clear:both;">
-        <img src="/img/Doc.png"  class="img-responsive alignleft imageborder">
+        <img src="/img/Doc.png" style="width:90px;" class="img-responsive alignleft imageborder">
         <strong>Doc Ocassi</strong>
 <br><small>"Culture can't catch its breath, and in the end a dead humanity lies next to its works, whose invention cost us so much of our intellect that we had none left to put them to use. We were complicated enough to build machines and too primitive to make them serve us."<br />
  - <span title="Translated from German by Johnathan Franzen in his book 'The Kraus Project'">Karl Kraus "Apocalypse"</span></small>
