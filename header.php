@@ -133,28 +133,7 @@ try {
                     </ul> <!-- nav nabvar-nav -->
 
                     <ul class="nav navbar-nav navbar-right">
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Member Login</a>
-                            <div class="dropdown-menu dropdown-login animated fadeInUp">
-                                <form role="form" action="https://hackerdeen.org/hub/login" method="post">
-                                    <h4 class="section-title">Hackhub Login</h4>
-         
-                                    <div class="form-group">
-                                        <div class="input-group login-input">
-                                            <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                                            <input type="text" class="form-control" placeholder="Username" name="username">
-                                        </div>
-                                        <br>
-                                        <div class="input-group login-input">
-                                            <span class="input-group-addon"><i class="fa fa-lock"></i></span>
-                                            <input type="password" class="form-control" placeholder="Password" name="password">
-                                        </div>
-                                        <button type="submit" class="btn btn-primary pull-right">Login</button>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                </form> 
-                            </div>
-                        </li> <!-- dropdown -->
+                        <li><a href="https://hub.57north.org.uk/hub/">Member Login</a></li>
                         <li class="dropdown"><a href="https://wiki.57north.org.uk/">Wiki</a></li>
                         <li class="dropdown"><a href="http://planet.57north.org.uk/">Planet</a></li>
                     </ul> <!-- nav nabvar-nav -->
