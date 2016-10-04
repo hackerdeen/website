@@ -20,6 +20,8 @@ try {
 	if ( $message == "" ) { $message = "(no message)"; }
 } catch (Exception $e) { $state = "?"; $message = "?"; }
 
+header("X-Clacks-Overhead: GNU Terry Pratchett");
+
 ?><!DOCTYPE html>
 <html lang="en"
       xmlns="http://www.w3.org/1999/xhtml"
