@@ -8,18 +8,6 @@ function myErrorHandler($errno, $errstr, $errfile, $errline) {
 }
 set_error_handler('myErrorHandler');
 
-try {
-	$spaceapiJson = file_get_contents("http://57north.co/spaceapi");
-	$spaceapi = json_decode($spaceapiJson);
-        if ( $spaceapi->state->open == "true" ) {
-		$state = "open";
-	} else {
-		$state = "closed";
-	}
-	$message = $spaceapi->state->message;
-	if ( $message == "" ) { $message = "(no message)"; }
-} catch (Exception $e) { $state = "?"; $message = "?"; }
-
 header("X-Clacks-Overhead: GNU Terry Pratchett");
 
 ?><!DOCTYPE html>
@@ -95,7 +83,6 @@ header("X-Clacks-Overhead: GNU Terry Pratchett");
                     <a href="https://twitter.com/57NorthHacklab" class="social-icon soc-twitter"><i class="fa fa-twitter"></i></a>
                     <a href="https://plus.google.com/+HackerdeenOrg" type="button" class="social-icon soc-google-plus animated fadeInDown animation-delay-2"><i class="fa fa-google-plus"></i></a>
                     <a href="https://facebook.com/57NorthHacklab" type="button" class="social-icon soc-facebook animated fadeInDown animation-delay-3"><i class="fa fa-facebook"></i></a><br>
-		<div style="margin:0;">The space is currently <?php echo($state); ?>: "<?php echo($message); ?>"</div>
 		</div>
                 <div id="header-title" style="width: 100%;">
                     <h1 class="animated fadeInDown"><a href="/"><img src="img/logo.png" alt="57North Hacklab" style="width: 289px; height: 100px;"></a></h1>
