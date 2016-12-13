@@ -4,7 +4,7 @@ header('Access-Control-Allow-Origin: *');
 header('Content-Type: application/json');
 header('Cache-Control: no-cache');
 
-$hub = json_decode(file_get_contents("http://hackerdeen.org/spaceapi"));
+$hub = json_decode(file_get_contents("http://hub.57north.org.uk/spaceapi"));
 
 $hub->contact->ml = "57north-discuss@lists.57north.co";
 
