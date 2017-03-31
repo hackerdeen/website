@@ -18,7 +18,7 @@ $hub->contact->ml = "57north-discuss@lists.57north.co";
 //$hub->sensors->humidity[0]->location = "The Space";
 //$hub->sensors->humidity[0]->unit = "%";
 
-$membership = json_decode(file_get_contents("http://hackerdeen.org/api/membership"));
+$membership = json_decode(file_get_contents("http://hub.57north.org.uk/api/membership"));
 
 function GetMonthString($n)
 {
