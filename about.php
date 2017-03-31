@@ -10,7 +10,7 @@ include('header.php'); ?>
                         <h1>About 57North</h1>
 			<p>57North is a hacker collective with a shared space located in Aberdeen, Scotland. We meet regularly to share knowledge, hack on projects together, and build community. If you're interested in joining 57North, come to some of our public meetings or join the 57North mailing list.</p>
 			<p>57North (previously Hackerdeen) was born from the efforts of a group of like-minded people in Aberdeen. Following two in-person meetings at the University of Aberdeen we got our own space to move into and have grown rapidly ever since. We have a range of electronics and computing tools available to our members that have been donated or loaned to us by members and local organisations.</p>
-			<p>Our current home is office space located on the third floor of 35a Union Street opposite Jamie's Italian.</p>
+			<p>Our current home is office space located on the third floor of 35a Union Street next to the Premier shop.</p>
 		</div>
 		</div><!-- row -->
         <div class="row">
