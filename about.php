@@ -68,13 +68,6 @@ Hibby's an engineer who works in telecoms and plays with radios.  He happens to 
         <h2>Our Members</h2>
         <p>Of course there would not be a hacklab were it not for our members. Our membership spans many technical fields with those that have knowledge and experience and also those that wish to learn. The hacklab exists for everyone that would like to use it.</p>
     </div>
-    <div class="tab-pane" id="comm">
-        <h2>Mailing List</h2>
-	<p>For important announcements, you can subscribe to our announcements mailing list using the form in the footer of this page.</p>
-	<p>To engage in hacklab discussions you can subscribe to the discussion mailing list via the <a href="http://lists.57north.co/listinfo/57north-discuss">web interface</a>. To send a message to the discussion mailing list, address an email to: <a href="mailto:57north-discuss@lists.57north.co">57north-discuss@57north.co</a>. For more details, see our <a href="https://wiki.57north.org.uk/index.php/Mailing_List">mailing list pages on the wiki</a>.</p>
-	<h2>IRC Channel</h2>
-	<p>When not in the space, the online meeting place is <strong>#57N</strong> on <strong>irc.freenode.net</strong>. For more details, see our <a href="https://wiki.57north.org.uk/index.php/IRC">IRC pages on the wiki</a>.</p>
-    </div>
     <div class="tab-pane" id="membership">
         <h2>Joining the hacklab</h2>
 	<p>Our bills are paid primarily through the collection of membership fees from our members which are currently £20pcm. For more casual users of the space, we do also allow people to use the space under the supervision of a member and donations are appreciated. For casual users there is a suggested minimum donation of £5 per day. If you just want to hang around to get a feel for the space, we're not going to pressure you for a donation, so don't let that stop you coming along.</p>
