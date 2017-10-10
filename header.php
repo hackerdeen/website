@@ -107,14 +107,7 @@ header("X-Clacks-Overhead: GNU Terry Pratchett");
                     <ul class="nav navbar-nav">
                         <li><a href=".">Home</a></li>
                         <li><a href="about">About</a></li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="regularevents">Regular Events</a></li>
-                                <li><a href="calendar">Calendar</a></li>
-                            </ul>
-                        </li> <!-- dropdown -->
-                        <!-- li><a href="/projects">Projects</a></li -->
+                        <li><a href="calendar">Events</a></li> 
                         <li><a href="gallery">Gallery</a></li>
                         <li><a href="contact">Contact</a></li>
 			<li class="visible-xs"><a href="http://hackerspaces.shiftout.com/wiki/57North+Hacklab">Status</a></li>
