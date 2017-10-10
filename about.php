@@ -23,7 +23,6 @@ include('header.php'); ?>
 <div class="col-md-12">
 <ul class="nav nav-tabs">
     <li class="active"><a href="#who" data-toggle="tab">Who are we?</a></li>
-    <li><a href="#comm" data-toggle="tab">Communication</a></li>
     <li><a href="#membership" data-toggle="tab">Membership</a></li>
 </ul>
  

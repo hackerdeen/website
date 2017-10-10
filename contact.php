@@ -10,8 +10,8 @@
 <tr><th valign="top">Email</th><td><a href="mailto:contact@57north.co">contact@57north.co</a></td></tr>
 <tr><th valign="top">Phone</th><td><a href="tel:+441224583491">+441224583491</a></td></tr>
 <tr><th valign="top">Physical Address</th><td>57North Hacklab<br>3rd Floor<br>35a Union Street<br>Aberdeen<br>AB11 5BN<br>Scotland</td></tr>
-<tr><th valign="top">Mailing List</th><td><p>For important announcements, you can subscribe to our announcements mailing list using the form in the footer of this page.</p>
-    <p>To engage in hacklab discussions you can subscribe to the discussion mailing list via the <a href="http://lists.57north.co/listinfo/57north-discuss">web interface</a>. To send a message to the discussion mailing list, address an email to: <a href="mailto:57north-discuss@lists.57north.co">57north-discuss@57north.co</a>. For more details, see our <a href="https://wiki.57north.org.uk/index.php/Mailing_List">mailing list pages on the wiki</a>.</p>
+<tr><th valign="top">Mailing List</th><td><p>For important announcements, you can subscribe to our announcements mailing list, and/or to engage in hacklab discussions you can subscribe to the discussion mailing list via the <a href="http://lists.57north.co/">web interface</a>.</p>
+    <p> For more details, see our <a href="https://wiki.57north.org.uk/index.php/Mailing_List">mailing list pages on the wiki</a>.</p>
 </td></tr>
 <tr><th valign="top">IRC Channel</th><td><p>When not in the space, the online meeting place is <strong>#57N</strong> on <strong>irc.freenode.net</strong>. For more details, see our <a href="https://wiki.57north.org.uk/index.php/IRC">IRC pages on the wiki</a>.</p>
 </td></tr>
