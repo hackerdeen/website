@@ -30,7 +30,7 @@ $arrContextOptions=array(
     ),
 );  
 
-$irc_links_all = file_get_contents("https://hackr.org.uk/~derecho/irclinks.txt", false, stream_context_create($arrContextOptions));
+$irc_links_all = file_get_contents("https://wcep4auo23pel2vp.onion.to/links.txt", false, stream_context_create($arrContextOptions));
 
 
 #$irc_links_all = file_get_contents('https://hackr.org.uk/~derecho/irclinks.txt');
