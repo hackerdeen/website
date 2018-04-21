@@ -12,24 +12,13 @@ RewriteRule ^regularevents$ regular.php [L]
 RewriteRule ^themedthursdays$ themedthursdays.php [L]
 RewriteRule ^apply$ apply.php [L]
 RewriteRule ^irclinks$ irclinks.php [L]
-
-RewriteRule ^webcam$ /creepycam [R,L]
-RewriteRule ^creepycam$ /creepycam.html [L]
+RewriteRule ^sponsors sponsors.php [L]
 
 RewriteRule ^wiki_logo.png$ - [L]
-RewriteRule ^wiki(.*)$ /w/index.php$1 [L]
 
 RewriteRule ^spaceapi$ /spaceapi.php [L]
 
-RewriteRule ^mlist$ /wiki/Mailing_List [R,L]
-RewriteRule ^irc$ /wiki/IRC [R,L]
-RewriteRule ^meetings$ /wiki/Meetings [R,L]
-RewriteRule ^press$ /wiki/Branding [R,L]
-RewriteRule ^sponsors$ /sponsors.php [L]
-RewriteRule ^quotes$ /qdb/?latest [R,L]
 RewriteRule ^hotpink$ /hotpink.php [L]
 
-RewriteRule ^hub(.*)$ http://hackerdeen.org/hub$1 [R,L]
-
-RewriteRule ^makeit-glo$ /wiki/MakeIt-Glo [R,L]
-
+RewriteRule ^hub$ https://hub.57north.org.uk/hub/ [L]
+RewriteRule ^hub/$ https://hub.57north.org.uk/hub/ [L]
