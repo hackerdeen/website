@@ -62,7 +62,7 @@ include('header.php'); ?>
                 <p>"Culture can't catch its breath, and in the end a dead humanity lies next to its works, whose invention cost us so much of our intellect that we had none left to put them to use. We were complicated enough to build machines and too primitive to make them serve us." - <span title="Translated from German by Johnathan Franzen in his book 'The Kraus Project'">Karl Kraus "Apocalypse"</span></p>
             </div>
             <div class="col-md-6">
-                <img src="/img/rob.jpg" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
+                <img src="/img/rob.png" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
                 <h5>Robert McWilliam</h5>
                 <p>I am an electronic engineer, working with FPGAs for accelerating computing or communication. For fun I play with a wider variety of electronics and occasionally build actual physical things.</p>
             </div>
@@ -106,7 +106,7 @@ include('header.php'); ?>
                 <p>Hello. I'm Iain R. Learmonth a.k.a. irl. Nouns that can describe me include: hacker, researcher, developer and activist. I live in Aberdeen, Scotland, Europe, Earth, Milky Way. </p>
             </div>
                 <div class="col-md-6">
-                <img src="/img/calum.png" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">           
+                <img src="/img/calum.jpg" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">           
                 <h5>Calum Chisholm</h5>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
