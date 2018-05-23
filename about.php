@@ -128,6 +128,14 @@ include('header.php'); ?>
             </div>
         </div><!-- row -->
 
+
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Documents and meetings</h2>
+                <p>We typically keep AGM minutes in GitHub, in the <a href="https://github.com/hackerdeen/meetings" target="_blank" title="minutes repo">meetings repository</a>.<p>
+            </div>
+        </div><!-- row -->        
+        
     </div><!-- container -->
 </section>		
 
