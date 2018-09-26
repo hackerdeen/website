@@ -13,6 +13,7 @@ RewriteRule ^themedthursdays$ themedthursdays.php [L]
 RewriteRule ^apply$ apply.php [L]
 RewriteRule ^irclinks$ irclinks.php [L]
 RewriteRule ^sponsors sponsors.php [L]
+RewriteRule ^donate donate.php [L]
 
 RewriteRule ^wiki_logo.png$ - [L]
 
