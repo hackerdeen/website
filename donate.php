@@ -18,6 +18,7 @@ include('header.php'); ?>
 This is a simple Stripe donation system
 It is deliberately written in simple, functional PHP for ease of reading
 Initially written in October 2018 by Andy
+There is a github issue at https://github.com/hackerdeen/website/issues/9
 
 This pages requires the stripe PHP bindings...
 https://github.com/stripe/stripe-php
@@ -61,57 +62,53 @@ if ( !isset( $_GET["state"] ) ) {
     # initial state
     ?>
     <h3>Step 1 of 3: Enter donation details</h3>
+    <br/>
     <form action="donate?state=2" method="post" id="donate_form">
-
-
-
-
-    <label for="amount">How much would you like to donate?</label>
+        <label for="amount">How much would you like to donate?</label>
         <div class="input-group">
-
-        <div class="btn-group" data-toggle="buttons">
-            <label class="btn btn-primary">
-                <input type="radio" name="amount_options" id="amount_5" value="5" checked> &pound;5
-            </label>
-            <label class="btn btn-primary">
-                <input type="radio" name="amount_options" id="amount_10" value="10"> &pound;10
-            </label>
-            <label class="btn btn-primary">
-                <input type="radio" name="amount_options" id="amount_20" value="20"> &pound;20
-            </label>
-            <label class="btn btn-primary">
-                <input type="radio" name="amount_options" id="amount_50" value="50"> &pound;50
-            </label>
-            <label class="btn btn-primary">
-                <input type="radio" name="amount_options" id="amount_other" value="other"> Choose your own amount
-            </label>            
+            <div class="btn-group" data-toggle="buttons">
+                <label class="btn btn-primary">
+                    <input type="radio" name="amount_options" id="amount_5" value="5" checked> &pound;5
+                </label>
+                <label class="btn btn-primary">
+                    <input type="radio" name="amount_options" id="amount_10" value="10"> &pound;10
+                </label>
+                <label class="btn btn-primary">
+                    <input type="radio" name="amount_options" id="amount_20" value="20"> &pound;20
+                </label>
+                <label class="btn btn-primary">
+                    <input type="radio" name="amount_options" id="amount_50" value="50"> &pound;50
+                </label>
+                <label class="btn btn-primary">
+                    <input type="radio" name="amount_options" id="amount_other" value="other"> Choose your own amount
+                </label>            
+            </div>
         </div>
-    </div>
-    <br/>
+        <br/>
 
-    <label for="amount">Choose your own amount...</label>
-    <div class="input-group">
-        <input type="text" class="form-control" id="amount" name="amount" placeholder="Donation amount in £" >
-    </div>
-    <br/>
+        <label for="amount">Choose your own amount...</label>
+        <div class="input-group">
+            <input type="text" class="form-control" id="amount" name="amount" placeholder="Donation amount in £" >
+        </div>
+        <br/>
 
-    <label for="email">Email <small>Required</small></label>
-    <div class="input-group">
-        <input type="text" class="form-control" id="email" name="email" placeholder="Your email address" >
-    </div>
-    <br/>
+        <label for="email">Email <small>Required</small></label>
+        <div class="input-group">
+            <input type="text" class="form-control" id="email" name="email" placeholder="Your email address" >
+        </div>
+        <br/>
 
-    <label for="name">Name <small>Optional</small></label>
-    <div class="input-group">
-        <input type="text" class="form-control" id="name" name="name" placeholder="Your name" >
-    </div>
-    <br/>
+        <label for="name">Name <small>Optional</small></label>
+        <div class="input-group">
+            <input type="text" class="form-control" id="name" name="name" placeholder="Your name" >
+        </div>
+        <br/>
 
-    <label for="comment">Comment <small>Optional</small></label>
-    <div class="input-group">
-        <input type="text" class="form-control" id="comment" name="comment" placeholder="Enter a comment if you like" >
-    </div>
-    <br/>
+        <label for="comment">Comment <small>Optional</small></label>
+        <div class="input-group">
+            <input type="text" class="form-control" id="comment" name="comment" placeholder="Enter a comment if you like" >
+        </div>
+        <br/>
 
         <button class="btn btn-success" type="submit">Donate</button>
 
@@ -147,10 +144,6 @@ if ( !isset( $_GET["state"] ) ) {
         }
     });
     </script>
-
-
-
-
     <?php
 
 
@@ -222,7 +215,6 @@ if ( !isset( $_GET["state"] ) ) {
     # third state
     $token  = $_POST['stripeToken'];
     $email  = $_POST['stripeEmail'];
-
     $amount_in_pence  = $_GET['val'];
   
     $customer = \Stripe\Customer::create(array(
@@ -275,7 +267,6 @@ if ( !isset( $_GET["state"] ) ) {
             </div>
         </div><!-- row -->        
     </div><!-- container -->
-</section>		
+</section>
 
 <?php include('footer.php'); ?>
-
