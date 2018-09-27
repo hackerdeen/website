@@ -70,8 +70,11 @@ if ( !isset( $_GET["state"] ) ) {
         <div class="input-group">
 
         <div class="btn-group" data-toggle="buttons">
-            <label class="btn btn-primary active">
-                <input type="radio" name="amount_options" id="amount_10" value="10" checked> &pound;10
+            <label class="btn btn-primary">
+                <input type="radio" name="amount_options" id="amount_5" value="5" checked> &pound;5
+            </label>
+            <label class="btn btn-primary">
+                <input type="radio" name="amount_options" id="amount_10" value="10"> &pound;10
             </label>
             <label class="btn btn-primary">
                 <input type="radio" name="amount_options" id="amount_20" value="20"> &pound;20
@@ -80,12 +83,13 @@ if ( !isset( $_GET["state"] ) ) {
                 <input type="radio" name="amount_options" id="amount_50" value="50"> &pound;50
             </label>
             <label class="btn btn-primary">
-                <input type="radio" name="amount_options" id="amount_other" value="other"> Other amount
+                <input type="radio" name="amount_options" id="amount_other" value="other"> Choose your own amount
             </label>            
         </div>
     </div>
+    <br/>
 
-    <label for="amount">...or choose your own amount...</label>
+    <label for="amount">Choose your own amount...</label>
     <div class="input-group">
         <input type="text" class="form-control" id="amount" name="amount" placeholder="Donation amount in £" >
     </div>
