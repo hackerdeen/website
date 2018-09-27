@@ -22,7 +22,7 @@
                         <p>Subscribe to the 57North Hacklab announce list to stay up-to-date on events.</p>
 			<form action="http://lists.57north.co/subscribe/57north-announce">
                         <div class="input-group">
-                            <input type="text" class="form-control" placeholder="Email Adress" name="email">
+                            <input type="text" class="form-control" placeholder="Email Address" name="email">
                             <span class="input-group-btn">
                                 <button class="btn btn-success" type="submit">Subscribe</button>
                             </span>
