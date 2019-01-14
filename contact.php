@@ -28,7 +28,7 @@ location lat/lon
 
 <h3>Access</h3>
 
-Our entrance can be found on Skene Terrace via the fire escape between the Assembly Rooms and the steps up to North Silver Street. If you are not a member of the space but expect that someone is in, then either a doorbell will be attached to the left of the door frame or you can call the phone number listed above.
+<p>Our entrance can be found on Skene Terrace via the fire escape between the Assembly Rooms and the steps up to North Silver Street. If you are not a member of the space but expect that someone is in, then either a doorbell will be attached to the left of the door frame or you can call the phone number listed above.</p>
     
 <h3>Transport Info</h3>
 
