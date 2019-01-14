@@ -32,7 +32,7 @@ $footerStuff = <<<HTML
 		events: 
 HTML;
 
-$footerStuff .= shell_exec("python /usr/local/bin/otc2fc.py ".escapeshellarg("http://opentechcalendar.co.uk/api1/group/151/events.json"));
+$footerStuff .= shell_exec("python /usr/local/bin/otc2fc.py ".escapeshellarg("https://opentechcalendar.co.uk/api1/venue/51/events.json"));
 
 $footerStuff .= <<<HTML
 , timeFormat: { '': 'h:mm{ - h:mm}' }	
