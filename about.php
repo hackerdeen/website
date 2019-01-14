@@ -62,20 +62,9 @@ include('header.php'); ?>
                 <p>"Culture can't catch its breath, and in the end a dead humanity lies next to its works, whose invention cost us so much of our intellect that we had none left to put them to use. We were complicated enough to build machines and too primitive to make them serve us." - <span title="Translated from German by Johnathan Franzen in his book 'The Kraus Project'">Karl Kraus "Apocalypse"</span></p>
             </div>
             <div class="col-md-6">
-                <img src="/img/rob.png" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
-                <h5>Robert McWilliam</h5>
-                <p>I am an electronic engineer, working with FPGAs for accelerating computing or communication. For fun I play with a wider variety of electronics and occasionally build actual physical things.</p>
-            </div>
-        </div><!-- row -->
-
-        <div class="row">
-            <div class="col-md-6">
                 <img src="https://s.gravatar.com/avatar/fb988ce06af50b01ccb18a15ad93cb69?s=80" style="width:100px;height:100px;" class="img-responsive alignleft imageborder"/>
                 <h5>Andy Gaskell</h5>
                 <p>I'm a web developer, making all sorts of Open Source things, often with Joomla.  I mainly like PHP, JS, backend, DevOps, APIs and that stuff.  I also like hacking stuff, playing with my kids, cooking, painting and gardening.</p>
-            </div>
-            <div class="col-md-6">
-                &nbsp;
             </div>
         </div><!-- row -->
 
@@ -124,7 +113,9 @@ include('header.php'); ?>
                 <p>&nbsp;</p>
             </div>
             <div class="col-md-6">
-                &nbsp;
+                <img src="/img/rob.png" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
+                <h5>Robert McWilliam</h5>
+                <p>I am an electronic engineer, working with FPGAs for accelerating computing or communication. For fun I play with a wider variety of electronics and occasionally build actual physical things.</p>
             </div>
         </div><!-- row -->
 
