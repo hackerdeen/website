@@ -69,6 +69,17 @@ include('header.php'); ?>
         </div><!-- row -->
 
         <div class="row">
+            <div class="col-md-6">
+                <img src="https://0.gravatar.com/avatar/54eda92e520484f98b942ce02dfe7156" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">     
+                <h5>Tom Jones</h5>
+                <p>I am a programmer and adventurer. From my trusty macbook I create software and hardware things, in a house by the sea. I like to hack on games, poke at registers. If it can be made to blink interesting colours I am interested.</p>
+            </div>
+            <div class="col-md-6">
+                <p>&nbsp</p>
+            </div>
+        </div><!-- row -->        
+        
+        <div class="row">
             <div class="col-md-12">
                 <h2>Roll of Honour - Previous Directors</h2>
             </div>
@@ -76,10 +87,11 @@ include('header.php'); ?>
 
         <div class="row">
             <div class="col-md-6">
-                <img src="https://0.gravatar.com/avatar/54eda92e520484f98b942ce02dfe7156" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">     
-                <h5>Tom Jones</h5>
-                <p>I am a programmer and adventurer. From my trusty macbook I create software and hardware things, in a house by the sea. I like to hack on games, poke at registers. If it can be made to blink interesting colours I am interested.</p>
+                <img src="/img/rob.png" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
+                <h5>Robert McWilliam</h5>
+                <p>I am an electronic engineer, working with FPGAs for accelerating computing or communication. For fun I play with a wider variety of electronics and occasionally build actual physical things.</p>
             </div>
+        </div>
             <div class="col-md-6">
                 <img src="/img/carl.jpg" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
                 <h5>Carl Anderson</h5>
@@ -113,9 +125,7 @@ include('header.php'); ?>
                 <p>&nbsp;</p>
             </div>
             <div class="col-md-6">
-                <img src="/img/rob.png" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
-                <h5>Robert McWilliam</h5>
-                <p>I am an electronic engineer, working with FPGAs for accelerating computing or communication. For fun I play with a wider variety of electronics and occasionally build actual physical things.</p>
+                <p>&nbsp</p>
             </div>
         </div><!-- row -->
 
