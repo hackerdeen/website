@@ -75,7 +75,7 @@ include('header.php'); ?>
                 <p>I am a programmer and adventurer. From my trusty macbook I create software and hardware things, in a house by the sea. I like to hack on games, poke at registers. If it can be made to blink interesting colours I am interested.</p>
             </div>
             <div class="col-md-6">
-                <p>&nbsp</p>
+                <p>&nbsp;</p>
             </div>
         </div><!-- row -->        
         
@@ -123,7 +123,7 @@ include('header.php'); ?>
                 <p>&nbsp;</p>
             </div>
             <div class="col-md-6">
-                <p>&nbsp</p>
+                <p>&nbsp;</p>
             </div>
         </div><!-- row -->
 
