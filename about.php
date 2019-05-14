@@ -91,7 +91,6 @@ include('header.php'); ?>
                 <h5>Robert McWilliam</h5>
                 <p>I am an electronic engineer, working with FPGAs for accelerating computing or communication. For fun I play with a wider variety of electronics and occasionally build actual physical things.</p>
             </div>
-        </div>
             <div class="col-md-6">
                 <img src="/img/carl.jpg" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
                 <h5>Carl Anderson</h5>
@@ -101,19 +100,18 @@ include('header.php'); ?>
         </div><!-- row -->
 
         <div class="row">
-                <div class="col-md-6">
+            <div class="col-md-6">
                 <img src="/img/irl.jpg" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
                 <h5>Iain Learmonth</h5>
                 <p>Hello. I'm Iain R. Learmonth a.k.a. irl. Nouns that can describe me include: hacker, researcher, developer and activist. I live in Aberdeen, Scotland, Europe, Earth, Milky Way. </p>
             </div>
-                <div class="col-md-6">
+            <div class="col-md-6">
                 <img src="/img/calum.jpg" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">           
                 <h5>Calum Chisholm</h5>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
             </div>
-
         </div><!-- row -->
 
         <div class="row">
@@ -128,7 +126,6 @@ include('header.php'); ?>
                 <p>&nbsp</p>
             </div>
         </div><!-- row -->
-
 
         <div class="row">
             <div class="col-md-12">
