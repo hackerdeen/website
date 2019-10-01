@@ -24,10 +24,10 @@
 
 <?php /*
 location lat/lon
-57.148160, -2.105428
+57.179470, -2.110614
 */ ?>
 
-<iframe width="1140" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-2.116949558258057%2C57.14371392357426%2C-2.0959210395812993%2C57.1511288226186&amp;layer=mapnik&amp;marker=57.1474215588468%2C-2.1064352989196777" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=57.14742&amp;mlon=-2.10644#map=17/57.14742/-2.10644&amp;layers=N">View Larger Map</a></small>
+<iframe width="1140" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-2.130585455524945%2C57.13162806274172%2C-2.072306418049359%2C57.190878518141076&amp;layer=mapnik&amp;marker=57.179470%2C-2.110614" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/57.17949/-2.11094">View Larger Map</a></small>
 
 <h3>Access</h3>
 
@@ -36,13 +36,13 @@ location lat/lon
 <h3>Transport Info</h3>
 
 <h4>Busses</h4>
-<p>Bus routes that are handy for the space are 3, 3G, 12, N1, D1, 1a, 20, 11, 19, 23 (all Firstbus), 59, 35, 37 (stagecoach).  Bus stops on Union street (music hall), Rosemount viaduct, Union terrace gardens and bridge street are all only 5 minutes walk from the space.</p>
+<p>The best bus for getting here is the Firstbus number One, getting off by the science park on Balgownie Road, on the stop just after Balgownie Drive.  You can pick up the number one from RGU and all along Holburn Street, Union Street and King Street.</p>
 
 <h4>Train</h4>
-<p>Aberdeen train station is about 10 minutes walk to the space, about 0.4 miles away.</p>
+<p>Aberdeen train station is about 3.2 miles away from the station.  If arriving in Aberdeen by train, it is best to get the number one from Union Street, a 5 minute walk from the train station.</p>
 
 <h4>Driving / Parking</h4>
-<p>Because of the city center location parking can sometimes be sub-optimal, but there is metered on-street parking on silver street and golden square, and often plenty of spaces in the Denburn multi-story car park.</p>
+<p>Parking at the space is simple and free, there are a few spaces at the front of the building, but many more to the rear.</p>
 
 </div></div><!-- row -->
 </section>
