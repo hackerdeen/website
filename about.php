@@ -20,7 +20,7 @@ include('header.php'); ?>
             </div>
             <div class="col-md-6">
                 <h1>What is a hackspace?</h1>
-                <p>A hackerspace (also referred to as a hacklab, hackspace or makerspace) is a community-operated, often not for profit (501(c)(3) in the United States), work space where people with common interests, often in computers, machining, technology, science, digital art or electronic art, can meet, socialize and collaborate.[1][2] Hackerspaces are comparable to other community-operated spaces with similar aims and mechanisms such as Fab Lab, men's sheds, and commercial for-profit companies such as TechShop. <small>From <a href="https://en.wikipedia.org/wiki/Hackerspace">wikipedia</a>.</p>
+                <p>A hackerspace (also referred to as a hacklab, hackspace or makerspace) is a community-operated, often not for profit (501(c)(3) in the United States), work space where people with common interests, often in computers, machining, technology, science, digital art or electronic art, can meet, socialize and collaborate.[1][2] Hackerspaces are comparable to other community-operated spaces with similar aims and mechanisms such as Fab Lab, men's sheds, and commercial for-profit companies such as TechShop. <small>From <a href="https://en.wikipedia.org/wiki/Hackerspace">wikipedia</a></small>.</p>
             </div>
         </div><!-- row -->
 
@@ -62,26 +62,9 @@ include('header.php'); ?>
                 <p>"Culture can't catch its breath, and in the end a dead humanity lies next to its works, whose invention cost us so much of our intellect that we had none left to put them to use. We were complicated enough to build machines and too primitive to make them serve us." - <span title="Translated from German by Johnathan Franzen in his book 'The Kraus Project'">Karl Kraus "Apocalypse"</span></p>
             </div>
             <div class="col-md-6">
-                <img src="/img/rob.png" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
-                <h5>Robert McWilliam</h5>
-                <p>I am an electronic engineer, working with FPGAs for accelerating computing or communication. For fun I play with a wider variety of electronics and occasionally build actual physical things.</p>
-            </div>
-        </div><!-- row -->
-
-        <div class="row">
-            <div class="col-md-6">
                 <img src="https://s.gravatar.com/avatar/fb988ce06af50b01ccb18a15ad93cb69?s=80" style="width:100px;height:100px;" class="img-responsive alignleft imageborder"/>
                 <h5>Andy Gaskell</h5>
                 <p>I'm a web developer, making all sorts of Open Source things, often with Joomla.  I mainly like PHP, JS, backend, DevOps, APIs and that stuff.  I also like hacking stuff, playing with my kids, cooking, painting and gardening.</p>
-            </div>
-            <div class="col-md-6">
-                &nbsp;
-            </div>
-        </div><!-- row -->
-
-        <div class="row">
-            <div class="col-md-12">
-                <h2>Roll of Honour - Previous Directors</h2>
             </div>
         </div><!-- row -->
 
@@ -92,6 +75,23 @@ include('header.php'); ?>
                 <p>I am a programmer and adventurer. From my trusty macbook I create software and hardware things, in a house by the sea. I like to hack on games, poke at registers. If it can be made to blink interesting colours I am interested.</p>
             </div>
             <div class="col-md-6">
+                <p>&nbsp;</p>
+            </div>
+        </div><!-- row -->        
+        
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Roll of Honour - Previous Directors</h2>
+            </div>
+        </div><!-- row -->
+
+        <div class="row">
+            <div class="col-md-6">
+                <img src="/img/rob.png" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
+                <h5>Robert McWilliam</h5>
+                <p>I am an electronic engineer, working with FPGAs for accelerating computing or communication. For fun I play with a wider variety of electronics and occasionally build actual physical things.</p>
+            </div>
+            <div class="col-md-6">
                 <img src="/img/carl.jpg" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
                 <h5>Carl Anderson</h5>
                 <p>Previosly employed by the University of Aberdeen as a Network Technician.
@@ -100,19 +100,18 @@ include('header.php'); ?>
         </div><!-- row -->
 
         <div class="row">
-                <div class="col-md-6">
+            <div class="col-md-6">
                 <img src="/img/irl.jpg" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
                 <h5>Iain Learmonth</h5>
                 <p>Hello. I'm Iain R. Learmonth a.k.a. irl. Nouns that can describe me include: hacker, researcher, developer and activist. I live in Aberdeen, Scotland, Europe, Earth, Milky Way. </p>
             </div>
-                <div class="col-md-6">
+            <div class="col-md-6">
                 <img src="/img/calum.jpg" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">           
                 <h5>Calum Chisholm</h5>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
             </div>
-
         </div><!-- row -->
 
         <div class="row">
@@ -124,10 +123,9 @@ include('header.php'); ?>
                 <p>&nbsp;</p>
             </div>
             <div class="col-md-6">
-                &nbsp;
+                <p>&nbsp;</p>
             </div>
         </div><!-- row -->
-
 
         <div class="row">
             <div class="col-md-12">
