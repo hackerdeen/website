@@ -12,7 +12,7 @@
 <tr><th valign="top">SIP</th><td><a href="sip:1057@hg.eventphone.de">sip:1057@hg.eventphone.de</a></td></tr>
 <tr><th valign="top">Postal Address</th><td>i<ul>
 <li>57North Hacklab (old) - Downstiars from Engage Gaming. - 3 Skene Terrace (26 North Silver Street), Aberdeen.<br/>AB10 1RL.<br>Scotland</li>
-<li>57North Hacklab (Temp New) - Alongside Aberdeen Action on Disability - Suite H, Kettock Lodge, Innovation Park, Campus Two, Bridge of Don, Aberdeen AB22 8GU</li>
+<li>57North Hacklab (Temp New) - Alongside Aberdeen Action on Disability - Suite H, Kettock Lodge, Innovation Park, Campus Two, 2 Balgownie Drive, Bridge of Don, Aberdeen AB22 8GU</li>
 </ul></td></tr>
 <tr><th valign="top">Mailing List</th><td><p>For important announcements, you can subscribe to our announcements mailing list, and/or to engage in hacklab discussions you can subscribe to the discussion mailing list via the <a href="http://lists.57north.co/">web interface</a>.</p>
     <p> For more details, see our <a href="https://wiki.57north.org.uk/index.php/Mailing_List">mailing list pages on the wiki</a>.</p>
@@ -31,7 +31,7 @@ location lat/lon
 
 <h3>Access</h3>
 
-<p>Our entrance can be found on Skene Terrace via the fire escape between the Assembly Rooms and the steps up to North Silver Street. If you are not a member of the space but expect that someone is in, then either a doorbell will be attached to the left of the door frame or you can call the phone number listed above.</p>
+<p>The entrance is via the main door of the Kettock Lodge building, we're on the first floor on the right. If you are not a member of the space but expect that someone is in, then either a doorbell will be attached to the left of the door frame or you can call the phone number listed above.</p>
     
 <h3>Transport Info</h3>
 
