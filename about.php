@@ -15,12 +15,12 @@ include('header.php'); ?>
                 <h2>About the 57North hackspace</h2>
                 <p>57North is a hacker collective with a shared space located in Aberdeen, Scotland. We meet regularly to share knowledge, hack on projects together, and build community. If you're interested in joining 57North, come to some of our public meetings or join the 57North mailing list.</p>
                 <p>57North (previously Hackerdeen) was born from the efforts of a group of like-minded people in Aberdeen. Following two in-person meetings at the University of Aberdeen we got our own space to move into and have grown rapidly ever since. We have a range of electronics and computing tools available to our members that have been donated or loaned to us by members and local organisations.</p>
-                <p>Our current home is, fairly temporarily, Units G&H, Kettock Lodge, 2 Campus Two, Balgownie Dr, Bridge of Don, Aberdeen, AB22 8GU.</p>
+                <p>Our current home is, fairly temporarily, Units G&H, Kettock Lodge, Campus Two, 2 Balgownie Drive, Bridge of Don, Aberdeen, AB22 8GU.</p>
                 <p>The hackspace was founded in Febuary 2015, so it is about <?php echo round( ( time() - strtotime("2015-02-18 00:00:00") ) / 60 ); ?> minutes old.</p>
             </div>
             <div class="col-md-6">
                 <h1>What is a hackspace?</h1>
-                <p>A hackerspace (also referred to as a hacklab, hackspace or makerspace) is a community-operated, often not for profit (501(c)(3) in the United States), work space where people with common interests, often in computers, machining, technology, science, digital art or electronic art, can meet, socialize and collaborate.[1][2] Hackerspaces are comparable to other community-operated spaces with similar aims and mechanisms such as Fab Lab, men's sheds, and commercial for-profit companies such as TechShop. <small>From <a href="https://en.wikipedia.org/wiki/Hackerspace">wikipedia</a></small>.</p>
+                <p>A hackerspace (also referred to as a hacklab, hackspace or makerspace) is a community-operated, often not for profit (501(c)(3) in the United States), work space where people with common interests, often in computers, machining, technology, science, digital art or electronic art, can meet, socialize and collaborate. Hackerspaces are comparable to other community-operated spaces with similar aims and mechanisms such as Fab Lab, men's sheds, and commercial for-profit companies such as TechShop. <small>From <a href="https://en.wikipedia.org/wiki/Hackerspace">wikipedia</a></small>.</p>
             </div>
         </div><!-- row -->
 
