@@ -39,7 +39,7 @@ location lat/lon
 <p>The best bus for getting here is the Firstbus number One, getting off by the science park on Balgownie Road, on the stop just after Balgownie Drive.  You can pick up the number one from RGU and all along Holburn Street, Union Street and King Street.</p>
 
 <h4>Train</h4>
-<p>Aberdeen train station is about 3.2 miles away from the station.  If arriving in Aberdeen by train, it is best to get the number one from Union Street, a 5 minute walk from the train station.</p>
+<p>Aberdeen train station is about 3.2 miles away from the hackspace.  If arriving in Aberdeen by train, it is best to get the number one bus from Union Street, a 5 minute walk from the train station.</p>
 
 <h4>Driving / Parking</h4>
 <p>Parking at the space is simple and free, there are a few spaces at the front of the building, but many more to the rear.</p>
