@@ -10,7 +10,7 @@
 <tr><th valign="top">Email</th><td><a href="mailto:contact@57north.co">contact@57north.co</a></td></tr>
 <tr><th valign="top">Phone</th><td><a href="tel:+49221596191057">+49221596191057</a> (watch out, this is a German phone number for now!)</td></tr>
 <tr><th valign="top">SIP</th><td><a href="sip:1057@hg.eventphone.de">sip:1057@hg.eventphone.de</a></td></tr>
-<tr><th valign="top">Postal Address</th><td>i<ul>
+<tr><th valign="top">Postal Address</th><td><ul>
 <li>57North Hacklab (old) - Downstiars from Engage Gaming. - 3 Skene Terrace (26 North Silver Street), Aberdeen.<br/>AB10 1RL.<br>Scotland</li>
 <li>57North Hacklab (Temp New) - Alongside Aberdeen Action on Disability - Suite H, Kettock Lodge, Innovation Park, Campus Two, 2 Balgownie Drive, Bridge of Don, Aberdeen AB22 8GU</li>
 </ul></td></tr>
