@@ -11,8 +11,8 @@
 <tr><th valign="top">Phone</th><td><a href="tel:+49221596191057">+49221596191057</a> (watch out, this is a German phone number for now!)</td></tr>
 <tr><th valign="top">SIP</th><td><a href="sip:1057@hg.eventphone.de">sip:1057@hg.eventphone.de</a></td></tr>
 <tr><th valign="top">Postal Address</th><td><ul>
-<li>57North Hacklab (old) - Downstiars from Engage Gaming. - 3 Skene Terrace (26 North Silver Street), Aberdeen.<br/>AB10 1RL.<br>Scotland</li>
 <li>57North Hacklab (Temp New) - Alongside Aberdeen Action on Disability - Suite H, Kettock Lodge, Innovation Park, Campus Two, 2 Balgownie Drive, Bridge of Don, Aberdeen AB22 8GU</li>
+<li>57North Hacklab (old) - Downstiars from Engage Gaming. - 3 Skene Terrace (26 North Silver Street), Aberdeen.<br/>AB10 1RL.<br>Scotland</li>
 </ul></td></tr>
 <tr><th valign="top">Mailing List</th><td><p>For important announcements, you can subscribe to our announcements mailing list, and/or to engage in hacklab discussions you can subscribe to the discussion mailing list via the <a href="http://lists.57north.co/">web interface</a>.</p>
     <p> For more details, see our <a href="https://wiki.57north.org.uk/index.php/Mailing_List">mailing list pages on the wiki</a>.</p>
@@ -44,6 +44,9 @@ location lat/lon
 <h4>Driving / Parking</h4>
 <p>Parking at the space is simple and free, there are a few spaces at the front of the building, but many more to the rear.</p>
 
+<h4>Flying</h4>
+<p>The hackspace is about 10km from Aberdeen airport.  The simplest option is a taxi, which would probably be between £15 and £20 and would take around 15 minutes.  The other option would be a but to the city center and then get the number one bus from there.  </p>  
+    
 </div></div><!-- row -->
 </section>
 
