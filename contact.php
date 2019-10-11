@@ -45,7 +45,7 @@ location lat/lon
 <p>Parking at the space is simple and free, there are a few spaces at the front of the building, but many more to the rear.</p>
 
 <h4>Flying</h4>
-<p>The hackspace is about 10km from Aberdeen airport.  The simplest option is a taxi, which would probably be between £15 and £20 and would take around 15 minutes.  The other option would be a but to the city center and then get the number one bus from there.  </p>  
+<p>The hackspace is about 10km from Aberdeen airport.  The simplest option is a taxi, which would probably be between £15 and £20 and would take around 15 minutes.  The other option would be a bus to the city center and then get the number one bus from there.  </p>  
     
 </div></div><!-- row -->
 </section>
