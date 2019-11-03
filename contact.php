@@ -8,12 +8,13 @@
 
 <table class="table">
 <tr><th valign="top">Email</th><td><a href="mailto:contact@57north.co">contact@57north.co</a></td></tr>
+<!-- Phone is not currently live
 <tr><th valign="top">Phone</th><td><a href="tel:+49221596191057">+49221596191057</a> (watch out, this is a German phone number for now!)</td></tr>
 <tr><th valign="top">SIP</th><td><a href="sip:1057@hg.eventphone.de">sip:1057@hg.eventphone.de</a></td></tr>
-<tr><th valign="top">Postal Address</th><td><ul>
-<li>57North Hacklab (Temp New) - Alongside Aberdeen Action on Disability - Suite H, Kettock Lodge, Innovation Park, Campus Two, 2 Balgownie Drive, Bridge of Don, Aberdeen AB22 8GU</li>
-<li>57North Hacklab (old) - Downstiars from Engage Gaming. - 3 Skene Terrace (26 North Silver Street), Aberdeen.<br/>AB10 1RL.<br>Scotland</li>
-</ul></td></tr>
+-->
+<tr><th valign="top">Postal Address</th><td>
+57North Hacklab - Alongside Aberdeen Action on Disability - Suite H, Kettock Lodge, Innovation Park, Campus Two, 2 Balgownie Drive, Bridge of Don, Aberdeen AB22 8GU
+</td></tr>
 <tr><th valign="top">Mailing List</th><td><p>For important announcements, you can subscribe to our announcements mailing list, and/or to engage in hacklab discussions you can subscribe to the discussion mailing list via the <a href="http://lists.57north.co/">web interface</a>.</p>
     <p> For more details, see our <a href="https://wiki.57north.org.uk/index.php/Mailing_List">mailing list pages on the wiki</a>.</p>
 </td></tr>
@@ -31,7 +32,11 @@ location lat/lon
 
 <h3>Access</h3>
 
-<p>The entrance is via the main door of the Kettock Lodge building, we're on the first floor on the right. If you are not a member of the space but expect that someone is in, then either a doorbell will be attached to the left of the door frame or you can call the phone number listed above.</p>
+<p>The entrance is via the main door of the Kettock Lodge building, we're on the first floor on the right.</p>
+
+<p>If you are not a member of the space but expect that someone is in, then you can ring the buzzer for Suite H and they might let you in.</p>
+
+<p>Members can get the door code from <a href="https://hub.57north.org.uk/hub/door">hub</a>.</p>
     
 <h3>Transport Info</h3>
 
