@@ -13,7 +13,15 @@
 <tr><th valign="top">SIP</th><td><a href="sip:1057@hg.eventphone.de">sip:1057@hg.eventphone.de</a></td></tr>
 -->
 <tr><th valign="top">Postal Address</th><td>
-57North Hacklab - Alongside Aberdeen Action on Disability - Suite H, Kettock Lodge, Innovation Park, Campus Two, 2 Balgownie Drive, Bridge of Don, Aberdeen AB22 8GU
+    57North Hacklab - Alongside Aberdeen Action on Disability
+    <br/>Suite H
+    <br/>Kettock Lodge
+    <br/>Innovation Park
+    <br/>Campus Two
+    <br/>2 Balgownie Drive
+    <br/>Bridge of Don
+    <br/>Aberdeen
+    <br/>AB22 8GU
 </td></tr>
 <tr><th valign="top">Mailing List</th><td><p>For important announcements, you can subscribe to our announcements mailing list, and/or to engage in hacklab discussions you can subscribe to the discussion mailing list via the <a href="http://lists.57north.co/">web interface</a>.</p>
     <p> For more details, see our <a href="https://wiki.57north.org.uk/index.php/Mailing_List">mailing list pages on the wiki</a>.</p>
