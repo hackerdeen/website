@@ -74,7 +74,7 @@
                         <img src="img/home_about.jpg" class="visible-xs img-responsive alignleft imageborder" style="width: 100%;" alt="Image">
                         <p class="p-lg">57North is a hacker collective with a shared space (known as the hacklab, hackspace, hackerspace, or simply just the space) located in Aberdeen, Scotland. We meet regularly to share knowledge, hack on projects together, and build community. If you're interested in joining 57North, come to some of our public meetings or join the 57North mailing list.</p>
                         <p class="p-lg">57North (previously Hackerdeen) was born from the efforts of a group of like-minded people in Aberdeen. Following two in-person meetings at the University of Aberdeen we got our own space to move into and have grown rapidly ever since. We have a range of electronics and computing tools available to our members that have been donated or loaned to us by members and local organisations.</p>
-			            <p class="p-lg">Our current home is Units G&H, Kettock Lodge, Campus Two, 2 Balgownie Drive, Bridge of Don, Aberdeen, AB22 8GU.</p>
+			            <p class="p-lg">Our current home is Suite H, Kettock Lodge, Innovation Park Campus Two, Bridge of Don, Aberdeen, AB22 8GU.</p>
                     </div>
                     <div class="col-md-4">
                         <h2 class="section-title">Quick Information</h2>
