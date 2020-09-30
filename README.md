@@ -1,4 +1,4 @@
-# website
+# An Amazing Website
 Source for 57North Hacklab's website.  The website can probably be found at https://57north.org.uk/
 
 ## History
