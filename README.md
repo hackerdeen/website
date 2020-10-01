@@ -1,4 +1,4 @@
-#  57North Hacklab's website - An Tech Hack Website
+#  57North Hacklab's website - A Tech Hack Website
 The website can probably be found at https://57north.org.uk/
 
 ## History
