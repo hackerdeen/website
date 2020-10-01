@@ -2,7 +2,7 @@
 Source for 57North Hacklab's website.  The website can probably be found at https://57north.org.uk/
 
 ## History
-Not sure really, think it was just an off the shelf pile of CSS and PHP.  It was created some time before 2015.
+Not sure really, think it was just an off the shelf pile of CSS and PHP.  It was created some time before 2015.And it is a amazing website.
 
 ## Libraries used
 * Font Awesome 4.0.3: an icon library https://fontawesome.com/v4.7.0/icons/
