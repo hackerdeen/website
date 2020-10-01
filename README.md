@@ -1,5 +1,5 @@
-# website
-Source for 57North Hacklab's website.  The website can probably be found at https://57north.org.uk/
+#  57North Hacklab's website - An Tech Hack Website
+The website can probably be found at https://57north.org.uk/
 
 ## History
 Not sure really, think it was just an off the shelf pile of CSS and PHP.  It was created some time before 2015.
