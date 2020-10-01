@@ -38,7 +38,7 @@ template {
 }
 
 html {
-  font-family: sans-serif;
+  font-family: "Times new Roman";
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -75,7 +75,7 @@ strong {
 }
 
 dfn {
-  font-style: italic;
+  font-style: bold;
 }
 
 hr {
@@ -1871,7 +1871,7 @@ legend {
 
 label {
   display: inline-block;
-  margin-bottom: 5px;
+  margin-bottom: 6px;
   font-weight: bold;
 }
 
