@@ -5,7 +5,7 @@ Source for 57North Hacklab's website.  The website can probably be found at http
 Not sure really, think it was just an off the shelf pile of CSS and PHP.  It was created some time before 2015.
 
 ## Libraries used
-* Font Awesome 4.0.3: an icon library https://fontawesome.com/v4.7.0/icons/
+* Font Awesome 4.0.3: an icon library: https://fontawesome.com/v4.7.0/icons/
 * jQuery 1.10.2:
 * Bootstrap 3.0.3:
 * FullCalendar 1.6.4: http://arshaw.com/fullcalendar/
