@@ -23,3 +23,5 @@ RewriteRule ^hotpink$ /hotpink.php [L]
 
 RewriteRule ^hub$ https://hub.57north.org.uk/hub/ [L]
 RewriteRule ^hub/$ https://hub.57north.org.uk/hub/ [L]
+
+Redirect 301 /workadventure https://wa.tabascoeye.de/_/global/raw.githubusercontent.com/ScottishConsulate/scotconmap/master/main.json 
