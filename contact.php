@@ -25,12 +25,14 @@
 <tr><th valign="top">Mailing List</th><td><p>For important announcements, you can subscribe to our announcements mailing list, and/or to engage in hacklab discussions you can subscribe to the discussion mailing list via the <a href="http://lists.57north.co/">web interface</a>.</p>
     <p> For more details, see our <a href="https://wiki.57north.org.uk/index.php/Mailing_List">mailing list pages on the wiki</a>.</p>
 </td></tr>
-<tr><th valign="top">IRC Channel</th><td><p>When not in the space, the online meeting place is <strong>#57N</strong> on <strong>irc.freenode.net</strong>. For more details, see our <a href="https://wiki.57north.org.uk/index.php/IRC">IRC pages on the wiki</a>.</p>
+<tr><th valign="top">IRC Channel</th><td><p>When not in the space, the online meeting place is <strong>#57N</strong> on <strong>irc.libera.chat</strong>. For more details, see our <a href="https://wiki.57north.org.uk/doku.php/resources/software/irc">IRC pages on the wiki</a>.</p>
+</td></tr>
+<tr><th valign="top">workadventure</th><td><p>workadventure is an online virtual space to interact, 57N people are often online there on Tuesaday and Friday evenings, see our <a href="https://wa.tabascoeye.de/_/global/raw.githubusercontent.com/ScottishConsulate/scotconmap/master/main.json">57N workadventure place</a>.</p>
 </td></tr>
 </table>
 <br>
 
-<?php /*
+<?php /* 
 location lat/lon
 57.179470, -2.110614
 */ ?>
