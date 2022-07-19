@@ -7,7 +7,7 @@
 <h1>Contact</h1>
 
 <table class="table">
-<tr><th valign="top">Email</th><td><a href="mailto:contact@57north.co">contact@57north.co</a></td></tr>
+<tr><th valign="top">Email</th><td><a href="mailto:contact@57north.org.uk">contact@57north.org.uk</a></td></tr>
 <!-- Phone is not currently live
 <tr><th valign="top">Phone</th><td><a href="tel:+49221596191057">+49221596191057</a> (watch out, this is a German phone number for now!)</td></tr>
 <tr><th valign="top">SIP</th><td><a href="sip:1057@hg.eventphone.de">sip:1057@hg.eventphone.de</a></td></tr>
@@ -22,7 +22,7 @@
     <br/>Bridge of Don
     <br/>Aberdeen AB22 8GU
 </td></tr>
-<tr><th valign="top">Mailing List</th><td><p>For important announcements, you can subscribe to our announcements mailing list, and/or to engage in hacklab discussions you can subscribe to the discussion mailing list via the <a href="http://lists.57north.co/">web interface</a>.</p>
+<tr><th valign="top">Mailing List</th><td><p>For important announcements, you can subscribe to our announcements mailing list, and/or to engage in hacklab discussions you can subscribe to the discussion mailing list via the <a href="http://lists.57north.org.uk/">web interface</a>.</p>
     <p> For more details, see our <a href="https://wiki.57north.org.uk/index.php/Mailing_List">mailing list pages on the wiki</a>.</p>
 </td></tr>
 <tr><th valign="top">IRC Channel</th><td><p>When not in the space, the online meeting place is <strong>#57N</strong> on <strong>irc.libera.chat</strong>. For more details, see our <a href="https://wiki.57north.org.uk/doku.php/resources/software/irc">IRC pages on the wiki</a>.</p>
