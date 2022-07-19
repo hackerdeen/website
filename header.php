@@ -107,7 +107,6 @@ header("X-Clacks-Overhead: GNU Terry Pratchett");
                         <li><a href=".">Home</a></li>
                         <li><a href="about">About</a></li>
                         <li><a href="calendar">Events</a></li> 
-                        <li><a href="gallery">Gallery</a></li>
                         <li><a href="contact">Contact</a></li>
 			<li class="visible-xs"><a href="http://hackerspaces.shiftout.com/wiki/57North+Hacklab">Status</a></li>
                     </ul> <!-- nav nabvar-nav -->
