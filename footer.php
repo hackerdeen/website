@@ -20,7 +20,7 @@
                     <div class="col-md-4">
                         <h3 class="footer-widget-title">Subscribe</h3>
                         <p>Subscribe to the 57North Hacklab announce list to stay up-to-date on events.</p>
-			<form action="http://lists.57north.co/subscribe/57north-announce">
+			<form action="http://lists.57north.org.uk/subscribe/57north-announce">
                         <div class="input-group">
                             <input type="text" class="form-control" placeholder="Email Address" name="email">
                             <span class="input-group-btn">
@@ -34,7 +34,7 @@
         </aside> <!-- footer-widgets -->
 
         <footer id="footer">
-            <p style="max-width: 800px; margin: 0 auto;">&copy; 2013-<?php echo date("Y"); ?> <a href="mailto:contact@57north.co">57North Hacklab Ltd.</a>. All rights reserved. 57North Hacklab Ltd. is a company registered in Scotland (No. SC470230). 57North and 57North Hacklab are trading names of 57North Hacklab Ltd.</p>
+            <p style="max-width: 800px; margin: 0 auto;">&copy; 2013-<?php echo date("Y"); ?> <a href="mailto:contact@57north.org.uk">57North Hacklab Ltd.</a>. All rights reserved. 57North Hacklab Ltd. is a company registered in Scotland (No. SC470230). 57North and 57North Hacklab are trading names of 57North Hacklab Ltd.</p>
 <p><a href="/hotpink" style="color: #FF69B4; margin-right: 10px;" class="pull-right"><b class="fa fa-square"></b></a></p>
 
         </footer>

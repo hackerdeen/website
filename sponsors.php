@@ -12,7 +12,7 @@
 		<p>We would like to thank Bitfolk Ltd for their kind sponsorship providing a virtual private server for our space. Having a virtual private server hosted in a datacenter allows us to have services like our website and email run reliably even when the local server is unplugged by an unwitting member to plug in their fusion generator.</p>
 <p>BitFolk are a UK based virtual private server provider, and you can find out more about them on their <a href="http://www.bitfolk.com/">website</a>.</p>
 		<h2 class="section-title" style="clear:both;">Sponsor Us</h2>
-		<p>We're always looking for new sponsors either on an ongoing basis or for our individual events. <a href="mailto:contact@57north.co">Contact us</a> for more information.</p>
+		<p>We're always looking for new sponsors either on an ongoing basis or for our individual events. <a href="mailto:contact@57north.org.uk">Contact us</a> for more information.</p>
         </div>
       </div>
 </section></div>
