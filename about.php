@@ -20,7 +20,7 @@ include('header.php'); ?>
             </div>
             <div class="col-md-6">
                 <h1>What is a hackspace?</h1>
-                <p>A hackerspace (also referred to as a hacklab, hackspace or makerspace) is a community-operated, often not for profit (501(c)(3) in the United States), work space where people with common interests, often in computers, machining, technology, science, digital art or electronic art, can meet, socialize and collaborate. Hackerspaces are comparable to other community-operated spaces with similar aims and mechanisms such as Fab Lab, men's sheds, and commercial for-profit companies such as TechShop. <small>From <a href="https://en.wikipedia.org/wiki/Hackerspace">wikipedia</a></small>.</p>
+                <p>A hackerspace (also referred to as a hacklab, hackspace or makerspace) is a community-operated, not for profit (in our case), work space where people with common interests, often in computers, machining, technology, science, digital art or electronic art, can meet, socialize and collaborate. Hackerspaces are comparable to other community-operated spaces with similar aims and mechanisms such as Fab Lab, men's sheds, and commercial for-profit companies such as TechShop. <small>From <a href="https://en.wikipedia.org/wiki/Hackerspace">wikipedia</a></small>.</p>
             </div>
         </div><!-- row -->
 
