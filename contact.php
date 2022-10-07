@@ -9,9 +9,8 @@
 <table class="table">
 <tr><th valign="top">Email</th><td><a href="mailto:contact@57north.org.uk">contact@57north.org.uk</a></td></tr>
 <!-- Phone is not currently live
-<tr><th valign="top">Phone</th><td><a href="tel:+49221596191057">+49221596191057</a> (watch out, this is a German phone number for now!)</td></tr>
+<tr><th valign="top">Phone</th><td><a href="tel:+49221596191057">+49221596191057</a> (watch out, this is a German phone number for now!)</td></tr> -->
 <tr><th valign="top">SIP</th><td><a href="sip:1057@hg.eventphone.de">sip:1057@hg.eventphone.de</a></td></tr>
--->
 <tr><th valign="top">Postal Address</th><td>
     57North Hacklab
     <br/>c/o Aberdeen Action on Disability
