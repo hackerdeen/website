@@ -15,8 +15,8 @@ include('header.php'); ?>
                 <h2>About the 57North hackspace</h2>
                 <p>57North is a hacker collective with a shared space located in Aberdeen, Scotland. We meet regularly to share knowledge, hack on projects together, and build community. If you're interested in joining 57North, come to some of our public meetings or join the 57North mailing list.</p>
                 <p>57North (previously Hackerdeen) was born from the efforts of a group of like-minded people in Aberdeen. Following two in-person meetings at the University of Aberdeen we got our own space to move into and have grown rapidly ever since. We have a range of electronics and computing tools available to our members that have been donated or loaned to us by members and local organisations.</p>
-                <p>Our current home is, fairly temporarily, Units G&H, Kettock Lodge, Campus Two, 2 Balgownie Drive, Bridge of Don, Aberdeen, AB22 8GU.</p>
-                <p>The hackspace was founded in Febuary 2015, so it is about <?php echo round( ( time() - strtotime("2015-02-18 00:00:00") ) / 60 ); ?> minutes old.</p>
+                <p>Our current home is Unit H, Kettock Lodge, Innovation Park, Campus Two, Bridge of Don, Aberdeen AB22 8GU.</p>
+                <p>The hackspace was founded in September 2013, so it is about <?php echo round( ( time() - strtotime("2013-09-01 00:00:00") ) / 60 ); ?> minutes old.</p>
             </div>
             <div class="col-md-6">
                 <h1>What is a hackspace?</h1>
@@ -49,9 +49,9 @@ include('header.php'); ?>
                 <p>Hibby's an engineer who works in telecoms and plays with radios.  He happens to have a mad passion for coffee, tea, music, technology, The occasional gin and shiny things.</p>
             </div>
             <div class="col-md-6">
-                <img src="/img/ed.gif" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
-                <h5>Ed Watson</h5>
-                <p>I am an elearning developer who works mostly with dynamic languages and media production during the day, then plays with AVRs and desktop fabrication methods during the evening. If it has I/O, melted plastic and needs a dremel tool, it's awesome.</p>
+                <img src="/img/wouter.jpg" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
+                <h5>Wouter</h5>
+                <p>Wouter is enigma disguised as a mystery.</p>
             </div>
         </div><!-- row -->
 
@@ -62,7 +62,7 @@ include('header.php'); ?>
                 <p>"Culture can't catch its breath, and in the end a dead humanity lies next to its works, whose invention cost us so much of our intellect that we had none left to put them to use. We were complicated enough to build machines and too primitive to make them serve us." - <span title="Translated from German by Johnathan Franzen in his book 'The Kraus Project'">Karl Kraus "Apocalypse"</span></p>
             </div>
             <div class="col-md-6">
-                <img src="https://s.gravatar.com/avatar/fb988ce06af50b01ccb18a15ad93cb69?s=80" style="width:100px;height:100px;" class="img-responsive alignleft imageborder"/>
+                <img src="/img/andy.jpg" style="width:100px;height:100px;" class="img-responsive alignleft imageborder"/>
                 <h5>Andy Gaskell</h5>
                 <p>I'm a web developer, making all sorts of Open Source things, often with Joomla.  I mainly like PHP, JS, backend, DevOps, APIs and that stuff.  I also like hacking stuff, playing with my kids, cooking, painting and gardening.</p>
             </div>
@@ -70,7 +70,7 @@ include('header.php'); ?>
 
         <div class="row">
             <div class="col-md-6">
-                <img src="https://0.gravatar.com/avatar/54eda92e520484f98b942ce02dfe7156" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">     
+                <img src="/img/tom.png" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">     
                 <h5>Tom Jones</h5>
                 <p>I am a programmer and adventurer. From my trusty macbook I create software and hardware things, in a house by the sea. I like to hack on games, poke at registers. If it can be made to blink interesting colours I am interested.</p>
             </div>
@@ -123,7 +123,9 @@ include('header.php'); ?>
                 <p>&nbsp;</p>
             </div>
             <div class="col-md-6">
-                <p>&nbsp;</p>
+                <img src="/img/ed.gif" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
+                <h5>Ed Watson</h5>
+                <p>I am an elearning developer who works mostly with dynamic languages and media production during the day, then plays with AVRs and desktop fabrication methods during the evening. If it has I/O, melted plastic and needs a dremel tool, it's awesome.</p>
             </div>
         </div><!-- row -->
 
