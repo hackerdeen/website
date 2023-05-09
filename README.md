@@ -19,8 +19,10 @@ Not sure really, think it was just an off the shelf pile of CSS and PHP.  It was
 
 Clone the repo from github to local...
 
-`git clone https://github.com/hackerdeen/website.git`
+`git clone git@github.com:hackerdeen/website.git`
+
 ...or...
+
 `git clone https://github.com/YourGithubUsername/website.git`
 
 Add a file...
