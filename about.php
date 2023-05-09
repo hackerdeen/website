@@ -19,7 +19,7 @@ include('header.php'); ?>
                 <p>The hackspace was founded in September 2013, so it is about <?php echo round( ( time() - strtotime("2013-09-01 00:00:00") ) / 60 ); ?> minutes old.</p>
             </div>
             <div class="col-md-6">
-                <h1>What is a hackspace?</h1>
+                <h2>What is a hackspace?</h2>
                 <p>A hackerspace (also referred to as a hacklab, hackspace or makerspace) is a community-operated, not for profit (in our case), work space where people with common interests, often in computers, machining, technology, science, digital art or electronic art, can meet, socialize and collaborate. Hackerspaces are comparable to other community-operated spaces with similar aims and mechanisms such as Fab Lab, men's sheds, and commercial for-profit companies such as TechShop. <small>From <a href="https://en.wikipedia.org/wiki/Hackerspace">wikipedia</a></small>.</p>
             </div>
         </div><!-- row -->
@@ -94,8 +94,7 @@ include('header.php'); ?>
             <div class="col-md-6">
                 <img src="/img/carl.jpg" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
                 <h5>Carl Anderson</h5>
-                <p>Previosly employed by the University of Aberdeen as a Network Technician.
--I enjoy taking MOOCs, reading manuals, building things for my cat and being a rad motherfucker.</p>
+                <p>Previously employed by the University of Aberdeen as a Network Technician. I enjoy taking MOOCs, reading manuals, building things for my cat and being a rad motherfucker.</p>
             </div>
         </div><!-- row -->
 
@@ -116,23 +115,25 @@ include('header.php'); ?>
 
         <div class="row">
             <div class="col-md-6">
+                <img src="/img/ed.gif" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
+                <h5>Ed Watson</h5>
+                <p>I am an elearning developer who works mostly with dynamic languages and media production during the day, then plays with AVRs and desktop fabrication methods during the evening. If it has I/O, melted plastic and needs a dremel tool, it's awesome.</p>
+            </div>
+            <div class="col-md-6">
                 <img src="/wiki_logo.png" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">    
                 <h5>Tony Shannon</h5>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
             </div>
-            <div class="col-md-6">
-                <img src="/img/ed.gif" style="width:100px;height:100px;" class="img-responsive alignleft imageborder">
-                <h5>Ed Watson</h5>
-                <p>I am an elearning developer who works mostly with dynamic languages and media production during the day, then plays with AVRs and desktop fabrication methods during the evening. If it has I/O, melted plastic and needs a dremel tool, it's awesome.</p>
-            </div>
         </div><!-- row -->
 
         <div class="row">
             <div class="col-md-12">
                 <h2>Documents and meetings</h2>
-                <p>We typically keep AGM minutes in GitHub, in the <a href="https://github.com/hackerdeen/meetings" target="_blank" title="minutes repo">meetings repository</a>.<p>
+                <p>We keep AGM minutes in GitHub, in the <a href="https://github.com/hackerdeen/meetings" target="_blank" title="minutes repo">meetings repository</a>.<p>
+                <p>We keep our articles in GitHub, in the <a href="https://github.com/hackerdeen/articles" target="_blank" title="articles repo">articles repository</a>.<p>
+                <p>You can find the <a href="https://find-and-update.company-information.service.gov.uk/company/SC470230" target="_blank" title="articles repo">57 North listing on Companies House</a>.<p>
             </div>
         </div><!-- row -->        
         
