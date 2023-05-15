@@ -15,24 +15,28 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-md-6">
            
-                <h2>Other Hacklabs</h2>
+                <h2>Other Hacklabs and Hackerspaces</h2>
                 <ul>
                     <li><a href="https://edinburghhacklab.com/" target="_blank">Edinburgh Hacklab</a></li>
                     <li><a href="https://www.tog.ie/" target="_blank">Tog Hackerspace, The Dublin Hackerspace</a></li>
+                    <li><a href="https://www.dundeemakerspace.com/" target="_blank">Dundee Makerspace</a></li>                    
                 </ul>
 
                 <h2>Hacklabs related Orgs</h2>
                 <ul>
                     <li><a href="https://www.hackspace.org.uk/" target="_blank">Hackspace Foundation</a></li>
                     <li><a href="https://vulca.eu/tour" target="_blank">Vulka Tour</a></li>
+                    <li><a href="https://www.ccc.de/en" target="_blank">Chaos Computer Club</a></li>
                 </ul>
 
                 <h2>Hacklabs type Events</h2>
                 <ul>
                     <li><a href="https://www.emfcamp.org/" target="_blank">EMF Camp</a></li>
                     <li><a href="https://events.ccc.de/" target="_blank">CCC, Chaos Communication Camp</a></li>
-                    <li><a href="https://wiki.milliways.info" target="_blank">Milliways</a></li>
+                    <li><a href="https://wiki.milliways.info" target="_blank">Milliways</a></li>      
                 </ul>
+
+
 
                 <h2>Member projects and side things</h2>
                 <ul>
