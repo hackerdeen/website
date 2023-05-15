@@ -2,7 +2,7 @@
         <aside id="footer-widgets">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-6">
                         <h3 class="footer-widget-title">Sitemap</h3>
                         <ul class="list-unstyled three_cols">
                             <li><a href="/">Home</a></li>
@@ -10,23 +10,18 @@
                             <li><a href="/calendar">Calendar</a></li>
                             <li><a href="/contact">Contact</a></li>
                             <li><a href="https://wiki.57north.org.uk/">Wiki</a></li>
-			    <li><a href="https://planet.57north.org.uk/">Planet</a></li>
+			                <li><a href="https://planet.57north.org.uk/">Planet</a></li>
                         </ul>
                     </div>
-                    <div class="col-md-4">
-			&nbsp;
-                    </div>
-                    <div class="col-md-4">
-                        <h3 class="footer-widget-title">Subscribe</h3>
-                        <p>Subscribe to the 57North Hacklab announce list to stay up-to-date on events.</p>
-			<form action="http://lists.57north.org.uk/subscribe/57north-announce">
-                        <div class="input-group">
-                            <input type="text" class="form-control" placeholder="Email Address" name="email">
-                            <span class="input-group-btn">
-                                <button class="btn btn-success" type="submit">Subscribe</button>
-                            </span>
-                        </div><!-- /input-group -->
-			</form>
+                    <div class="col-md-6">
+                        <h3 class="footer-widget-title">Coms</h3>
+                        <p>Mailing lists: 
+                            <a href="https://lists.57north.org.uk/mailman3/hyperkitty/list/57north-discuss@lists.57north.org.uk/"  target="_blank">57north-discuss</a> 
+                            and 
+                            <a href="https://lists.57north.org.uk/mailman3/hyperkitty/list/57north-announce@lists.57north.org.uk/" target="_blank">57north-announce</a>.
+                        </p>
+                        <p>IRC: #57N on irc.libera.chat.</p>
+                        <p>Location: 57North Hacklab, c/o Aberdeen Action on Disability, Suite H, Kettock Lodge, Innovation Park, Campus Two, Bridge of Don, Aberdeen AB22 8GU.</p>
                     </div>
                 </div> <!-- row -->
             </div> <!-- container -->
