@@ -120,8 +120,8 @@
 			<div class="row">
 				<div class="col-md-12">
 					<h2 class="section-title">Sponsors</h2>
-					<a href="/sponsors#converged"><img style="height: 80px;" src="https://57north.org.uk/w/images/f/f9/Converged-logo.jpg" alt="Converged Communication Solutions Limited"></a>
-					<a href="/sponsors#bitfolk"><img style="height: 80px;" src="https://57north.org.uk/img/bitfolk.gif" alt="Bitfolk Limited"></a>
+					<a href="/sponsors#aaisp"><img style="height: 80px;" src="/img/andrews_and_arnold_logo.png" alt="AAISP: Andrews & Arnold Ltd"></a>
+					<a href="/sponsors#bitfolk"><img style="height: 80px;" src="/img/bitfolk.gif" alt="Bitfolk Limited"></a>
 					<br>You can find more information about our sponsors, including the services they provide to us, on our <a href="/sponsors">sponsors page</a>.
 				</div>
 			</div>
