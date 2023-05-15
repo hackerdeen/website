@@ -10,7 +10,6 @@
                             <li><a href="/calendar">Calendar</a></li>
                             <li><a href="/contact">Contact</a></li>
                             <li><a href="https://wiki.57north.org.uk/">Wiki</a></li>
-			                <li><a href="https://planet.57north.org.uk/">Planet</a></li>
                         </ul>
                     </div>
                     <div class="col-md-6">

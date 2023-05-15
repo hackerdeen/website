@@ -108,13 +108,11 @@ header("X-Clacks-Overhead: GNU Terry Pratchett");
                         <li><a href="about">About</a></li>
                         <li><a href="calendar">Events</a></li> 
                         <li><a href="contact">Contact</a></li>
-			<li class="visible-xs"><a href="http://hackerspaces.shiftout.com/wiki/57North+Hacklab">Status</a></li>
                     </ul> <!-- nav nabvar-nav -->
 
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="https://hub.57north.org.uk/hub/">Member Login</a></li>
                         <li class="dropdown"><a href="https://wiki.57north.org.uk/">Wiki</a></li>
-                        <li class="dropdown"><a href="http://planet.57north.org.uk/">Planet</a></li>
                     </ul> <!-- nav nabvar-nav -->
                 </div><!-- navbar-collapse -->
             </div> <!-- container -->
