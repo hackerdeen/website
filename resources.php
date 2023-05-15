@@ -54,6 +54,7 @@ include('header.php'); ?>
                     <li><a href="https://codethecity.org/" target="_blank">Code The City</a></li>
                     <li><a href="https://aberlug.org.uk/" target="_blank">Aberdeen Linux User Group</a></li>
                     <li><a href="https://www.thisiscodebase.com/aberdeen" target="_blank">ONE CodeBase Aberdeen</a></li>
+                    <li><a href="https://aberdeensciencecentre.org/" target="_blank">Aberdeen Science Centre</a></li>
                 </ul>                
 
                 <h2>Creative Orgs and Spaces in Aberdeen</h2>
@@ -71,6 +72,7 @@ include('header.php'); ?>
                     <li><a href="https://www.deemouthartiststudios.co.uk" target="_blank">Deemouth Artist Studios</a></li>
                     <li><a href="https://throwupgallery.com" target="_blank">throwupgallery</a></li>
                     <li><a href="https://lookagainaberdeen.co.uk/" target="_blank">Look Again</a></li>
+                    <li><a href="https://www.ghat-art.org.uk/" target="_blank">Grampian Hospitals Art Trust (GHAT)</a></li>
                 </ul>
 
                 <h2>Creative News in Aberdeen</h2>
