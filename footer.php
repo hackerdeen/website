@@ -9,6 +9,7 @@
                             <li><a href="/about">About</a></li>
                             <li><a href="/calendar">Calendar</a></li>
                             <li><a href="/contact">Contact</a></li>
+                            <li><a href="/equality-and-diversity">Equality and Diversity</a></li>
                             <li><a href="https://wiki.57north.org.uk/">Wiki</a></li>
                         </ul>
                     </div>

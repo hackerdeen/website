@@ -17,7 +17,7 @@ include('header.php'); ?>
 
                 <p>Of course there would not be a hacklab were it not for our members. Our membership spans many technical fields with those that have knowledge and experience and also those that wish to learn. The hacklab exists for everyone that would like to use it. We welcome everyone, and enthusiastically celebrate diversity.</p>
 
-                <p><a href="https://wiki.57north.org.uk/doku.php?id=admin:statement_on_equality_and_diversity" title="Statement on Equality and Diversity">Anyone</a> is welcome to join 57North hacklab. We recommend that you visit us a few times on Open Tuesday first to get a feel for the community and meet some friendly faces!</p>
+                <p><a href="/equality_and_diversity" title="Statement on Equality and Diversity">Anyone</a> is welcome to join 57North hacklab. We recommend that you visit us a few times on Open Tuesday first to get a feel for the community and meet some friendly faces!</p>
 
                 <p>Once you know you want to join, to fill out our membership form link tba. The board will acknowledge your application and confirm whether it has been accepted within a week.</p>
 
