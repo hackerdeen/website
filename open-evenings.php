@@ -25,7 +25,9 @@ include('header.php'); ?>
                     and 
                     <a href="https://lists.57north.org.uk/mailman3/hyperkitty/list/57north-discus@lists.57north.org.uk/">discus</a>
                     mailing lists.
-                </p>                
+                </p>        
+                
+                <p>There are some details on getting here by various means on the <a href="/contact" title="57 North contact page">contact page</a>.</p>
 
                 <h2>Upcoming Open Evenings</h2>
                 <p>The next 10 Tuesdays are...</p>
