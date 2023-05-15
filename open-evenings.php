@@ -15,9 +15,9 @@ include('header.php'); ?>
 
                 <h2>Open Evening, Every Tuesday</h2>
 
-                <p>Every week, on a Tuesday evening, the hackspace is open to all.  Come along from around 7pm if you're keen to find out more about 57North Hacklab.  
+                <p>Every week on a Tuesday evening the Hacklab is open to all.  Come along from around 7pm if you're keen to find out more about 57North Hacklab.  
 
-                <p>Tuesdays is usually the busiest evening at the space, so is often more focussed on catching up, sharing ideas and helping each other.</p>
+                <p>Tuesday is usually the busiest evening at the space and is often more focussed on socialising, sharing ideas and helping each other.</p>
 
                 <p>
                     Usually, every Tuesday, there is a email out, so it's worth checking the 
