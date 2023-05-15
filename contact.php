@@ -22,7 +22,7 @@
     <br/>Aberdeen AB22 8GU
 </td></tr>
 <tr><th valign="top">Mailing List</th><td><p>For important announcements, you can subscribe to our announcements mailing list, and/or to engage in hacklab discussions you can subscribe to the discussion mailing list via the <a href="http://lists.57north.org.uk/">web interface</a>.</p>
-    <p> For more details, see our <a href="https://wiki.57north.org.uk/index.php/Mailing_List">mailing list pages on the wiki</a>.</p>
+    <p> For more details, see our <a href="https://wiki.57north.org.uk/doku.php?id=resources:57north:mailing_list">mailing list pages on the wiki</a>.</p>
 </td></tr>
 <tr><th valign="top">IRC Channel</th><td><p>When not in the space, the online meeting place is <strong>#57N</strong> on <strong>irc.libera.chat</strong>. For more details, see our <a href="https://wiki.57north.org.uk/doku.php/resources/software/irc">IRC pages on the wiki</a>.</p>
 </td></tr>
