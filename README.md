@@ -4,6 +4,12 @@ Source for 57North Hacklab's website.  The website can probably be found at http
 ## History
 Not sure really, think it was just an off the shelf pile of CSS and PHP.  It was created some time before 2015.
 
+## What's going on
+Some handy links to help see what's new here:
+* Latest issue updates: https://github.com/hackerdeen/website/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
+* Latest commits: https://github.com/hackerdeen/website/commits/master
+* Github pulse: https://github.com/hackerdeen/website/pulse/monthly
+
 ## Libraries used
 * Font Awesome 4.0.3: an icon library https://fontawesome.com/v4.7.0/icons/
 * jQuery 1.10.2:
