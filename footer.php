@@ -7,7 +7,10 @@
                         <ul class="list-unstyled three_cols">
                             <li><a href="/">Home</a></li>
                             <li><a href="/about">About</a></li>
-                            <li><a href="/calendar">Calendar</a></li>
+                            <li><a href="/our-space">Our Space</a></li>
+                            <li><a href="/open-evenings">Open Evenings</a></li>
+                            <li><a href="/membership">Membership</a></li>
+                            <li><a href="/resources">Resources</a></li>
                             <li><a href="/contact">Contact</a></li>
                             <li><a href="/equality-and-diversity">Equality and Diversity</a></li>
                             <li><a href="https://wiki.57north.org.uk/">Wiki</a></li>

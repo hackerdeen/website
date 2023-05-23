@@ -106,7 +106,11 @@ header("X-Clacks-Overhead: GNU Terry Pratchett");
                     <ul class="nav navbar-nav">
                         <li><a href=".">Home</a></li>
                         <li><a href="about">About</a></li>
-                        <li><a href="calendar">Events</a></li> 
+                        <!-- <li><a href="calendar">Events</a></li> -->
+                        <li><a href="our-space">Our Space</a></li>
+                        <li><a href="open-evenings">Open Evenings</a></li>
+                        <li><a href="membership">Membership</a></li>
+                        <li><a href="resources">Resources</a></li>
                         <li><a href="contact">Contact</a></li>
                     </ul> <!-- nav nabvar-nav -->
 

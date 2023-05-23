@@ -2,8 +2,9 @@
 RewriteEngine On
 
 RewriteRule ^about$ about.php [L]
-RewriteRule ^events$ calendar [R,L]
-RewriteRule ^calendar$ calendar.php [L]
+RewriteRule ^events$ open-evenings [R,L]
+RewriteRule ^calendar$ open-evenings [R,L]
+RewriteRule ^open-evenings$ open-evenings.php [L]
 RewriteRule ^contact$ contact.php [L]
 RewriteRule ^projects$ projects.php [L]
 RewriteRule ^workshops$ workshops.php [L]
@@ -11,8 +12,13 @@ RewriteRule ^regularevents$ regular.php [L]
 RewriteRule ^themedthursdays$ themedthursdays.php [L]
 RewriteRule ^apply$ apply.php [L]
 RewriteRule ^irclinks$ irclinks.php [L]
-RewriteRule ^sponsors sponsors.php [L]
-RewriteRule ^donate donate.php [L]
+RewriteRule ^sponsors$ sponsors.php [L]
+# RewriteRule ^donate$ donate.php [L]
+RewriteRule ^membership$ membership.php [L]
+RewriteRule ^our-space$ our-space.php [L]
+RewriteRule ^resources$ resources.php [L]
+
+Resources
 
 RewriteRule ^wiki_logo.png$ - [L]
 
@@ -24,3 +30,4 @@ RewriteRule ^hub$ https://hub.57north.org.uk/hub/ [L]
 RewriteRule ^hub/$ https://hub.57north.org.uk/hub/ [L]
 
 Redirect 301 /workadventure https://wa.tabascoeye.de/_/global/raw.githubusercontent.com/ScottishConsulate/scotconmap/master/main.json 
+Redirect 301 /jitsi https://meet.jit.si/ScottishConsulate
