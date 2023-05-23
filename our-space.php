@@ -35,13 +35,13 @@ include('header.php'); ?>
                 <p>We've a couple of large tables, in two separate spaces, that are used for light hacking, meetings and socialising.</p>
 
                 <h2>Tools</h2>
-                <p>We've a great set of hand tools and power tools.</p>
+                <p>We've a great selection of hand tools and power tools.</p>
 
                 <h2>Components</h2>
                 <p>There ar lots of varying sized draws for electrical components and other consumables here.</p>
                 
                 <h2>Fasteners</h2>
-                <p>All the nuts, bolds, screws, fasteners and fixings you'll ever need.</p> 
+                <p>All the nuts, bolds, screws, fasteners and fixings you'll ever need, with a bit of luck.</p> 
                 
                 <h2>Cutting & finishing</h2>
                 <p>This section of the space is for more dirty making work, with Dremels, a pillar drill and bandsaw here.</p>
@@ -88,6 +88,12 @@ include('header.php'); ?>
 
                 <h2>Back door</h2>
                 <p>Takes you down stairs to the large car park at the back of the building.</p>
+
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+
+                <p>See also <a href="https://wiki.57north.org.uk/">the Wiki</a> for more details and / or up-to-date information.</p>
+
             </div>
         </div><!-- row -->    
         
