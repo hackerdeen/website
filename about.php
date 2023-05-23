@@ -15,23 +15,19 @@ include('header.php'); ?>
                 <h2>About the 57North hackspace</h2>
                 <p>57North is a hacker collective with a shared space located in Aberdeen, Scotland. We meet regularly to share knowledge, hack on projects together, and build community. If you're interested in joining 57North, come to some of our public meetings or join the 57North mailing list.</p>
                 <p>57North (previously Hackerdeen) was born from the efforts of a group of like-minded people in Aberdeen. Following two in-person meetings at the University of Aberdeen we got our own space to move into and have grown rapidly ever since. We have a range of electronics and computing tools available to our members that have been donated or loaned to us by members and local organisations.</p>
-                <p>Our current home is Unit H, Kettock Lodge, Innovation Park, Campus Two, Bridge of Don, Aberdeen AB22 8GU.</p>
+                <p>Our current home is Unit H, Kettock Lodge, Innovation Park, Campus Two, Bridge of Don, Aberdeen AB22 8GU.  Prior to that we've been located on Skene Terrace, oposite the central libary, and before that, at 35a Union Street.</p>
                 <p>The hackspace was founded in September 2013, so it is about <?php echo round( ( time() - strtotime("2013-09-01 00:00:00") ) / 60 ); ?> minutes old.</p>
+
             </div>
             <div class="col-md-6">
                 <h2>What is a hackspace?</h2>
                 <p>A hackerspace (also referred to as a hacklab, hackspace or makerspace) is a community-operated, not for profit (in our case), work space where people with common interests, often in computers, machining, technology, science, digital art or electronic art, can meet, socialize and collaborate. Hackerspaces are comparable to other community-operated spaces with similar aims and mechanisms such as Fab Lab, men's sheds, and commercial for-profit companies such as TechShop. <small>From <a href="https://en.wikipedia.org/wiki/Hackerspace">wikipedia</a></small>.</p>
-            </div>
-        </div><!-- row -->
 
-        <div class="row">
-            <div class="col-md-6">
                 <h2>Our Members</h2>
                 <p>Of course there would not be a hacklab were it not for our members. Our membership spans many technical fields with those that have knowledge and experience and also those that wish to learn. The hacklab exists for everyone that would like to use it.  We welcome everyone, and enthusiastically celebrate diversity.</p>
-            </div>
-            <div class="col-md-6">
+
                 <h2>Joining the hacklab</h2>
-                <p>Our bills are paid primarily through the collection of membership fees from our members which are currently £20pcm. For more casual users of the space, we do also allow people to use the space under the supervision of a member and donations are appreciated. For casual users there is a suggested minimum donation of £5 per day. If you just want to hang around to get a feel for the space, we're not going to pressure you for a donation, so don't let that stop you coming along.</p>
+                <p>Our bills are paid primarily through the collection of membership fees from our members which are currently £20pcm. For more casual users of the space, we do also allow people to use the space under the supervision of a member and donations are appreciated. For casual users there is a suggested minimum donation of £5 per day. If you just want to hang around to get a feel for the space, we're not going to pressure you for a donation, so don't let that stop you coming along. See the <a href="/membership" title="membership page">membership page for more details.</a></p>
             </div>
         </div><!-- row -->
 
