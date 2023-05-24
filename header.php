@@ -80,8 +80,8 @@ header("X-Clacks-Overhead: GNU Terry Pratchett");
             <div class="container">
 
                 <div style="text-align: right; padding-top: 30px; position:absolute; z-index:2; right: 10px;" class="animated fadeInDown hidden-xs">
-                    <a href="https://twitter.com/57NorthHacklab" class="social-icon soc-twitter" target="_blank"><i class="fa fa-twitter"></i></a>
-                    <a href="https://facebook.com/57NorthHacklab" class="social-icon soc-facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+                    <a href="https://twitter.com/57NorthHacklab" class="social-icon soc-twitter" target="_blank" title="57North Hacklab on Twitter"><i class="fa fa-twitter"></i></a>
+                    <a href="https://facebook.com/57NorthHacklab" class="social-icon soc-facebook" target="_blank" title="57North Hacklab on Facebook"><i class="fa fa-facebook"></i></a>
 		        </div>
                 <div id="header-title" style="width: 100%;">
                     <h1 class="animated fadeInDown"><a href="/"><img src="img/logo.png" alt="57North Hacklab" style="width: 289px; height: 100px;"></a></h1>
