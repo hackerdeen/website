@@ -1,4 +1,3 @@
-
 RewriteEngine On
 
 RewriteRule ^about$ about.php [L]
@@ -17,8 +16,6 @@ RewriteRule ^sponsors$ sponsors.php [L]
 RewriteRule ^membership$ membership.php [L]
 RewriteRule ^our-space$ our-space.php [L]
 RewriteRule ^resources$ resources.php [L]
-
-Resources
 
 RewriteRule ^wiki_logo.png$ - [L]
 
