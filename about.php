@@ -15,7 +15,7 @@ include('header.php'); ?>
                 <h2>About the 57North hackspace</h2>
                 <p>57North is a hacker collective with a shared space located in Aberdeen, Scotland. We meet regularly to share knowledge, hack on projects together, and build community. If you're interested in joining 57North, come to some of our public meetings or join the 57North mailing list.</p>
                 <p>57North (previously Hackerdeen) was born from the efforts of a group of like-minded people in Aberdeen. Following two in-person meetings at the University of Aberdeen we got our own space to move into and have grown rapidly ever since. We have a range of electronics and computing tools available to our members that have been donated or loaned to us by members and local organisations.</p>
-                <p>Our current home is Unit H, Kettock Lodge, Innovation Park, Campus Two, Bridge of Don, Aberdeen AB22 8GU.  Prior to that we've been located on Skene Terrace, oposite the central libary, and before that, at 35a Union Street.</p>
+                <p>Our current home is Unit H, Kettock Lodge, Innovation Park, Campus Two, Bridge of Don, Aberdeen AB22 8GU.  Prior to that we've been located on Skene Terrace, opposite the central library, and before that, at 35a Union Street.</p>
                 <p>The hackspace was founded in September 2013, so it is about <?php echo round( ( time() - strtotime("2013-09-01 00:00:00") ) / 60 ); ?> minutes old.</p>
 
             </div>

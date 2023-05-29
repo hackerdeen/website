@@ -1,6 +1,6 @@
 <?php define('IN_SITE', 1); $page = "Our Space"; 
 
-$description = "Our space is a great mix of workshop, studio and social spaces.";
+$description = "Our space is a great mix of workshop, studio and social space.";
 
 include('header.php'); ?>
 <section>
@@ -12,8 +12,8 @@ include('header.php'); ?>
         </div><!-- row -->
         <div class="row">
             <div class="col-md-6">
-                <p>Our current space is 57North Hacklab's third location, and the largest so far.  We have around TBC m2 which is separated into several zones for different activities.  The interior is a fairly normal modern open-plan office set-up with durable carpet and a suspended ceiling.</p>
-                <p>There is plenty of space to host sit down meetings of perhaps up to 20 people, and the space probably has a comfortable capacity of around 30 or 40 people.</p>
+                <p>Our current space is 57North Hacklab's third location, and the largest so far.  We have around 300 m2 which is separated into several zones for different activities.  The interior is a fairly normal modern open-plan office set-up with durable carpet and a suspended ceiling.</p>
+                <p>There is plenty of space to host sit-down meetings of perhaps up to 20 people, and the space probably has a comfortable capacity of around 30 or 40 people.</p>
                 <p>Worth noting, the layout map below is probably out of date already.</p>
             </div>
             <div class="col-md-6">
@@ -61,6 +61,7 @@ include('header.php'); ?>
                 <h2>Radio desk</h2>
                 <p>A few of our members are keen armature radio people, so we have an excellent radio set-up.</p>
             </div>
+            
             <div class="col-md-6">
                 <h2>Drinks & snacks</h2>
                 <p>We've a food telly (aka microwave), kettle, fridge and snack bar thing set-up here.</p> 
@@ -75,7 +76,7 @@ include('header.php'); ?>
                 <p>The 3d printer lives here, with all the printer material in the cupboard beside it.</p>
 
                 <h2>Vinyl cutter</h2>
-                <p>The vinyl cutter is usaful for signs and stencils..</p>
+                <p>The vinyl cutter is useful for signs and stencils..</p>
 
                 <h2>Music & lights</h2>
                 <p>We've a pair of CDJs and a mixer, with a lighting rig.</p>
@@ -92,7 +93,7 @@ include('header.php'); ?>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
 
-                <p>See also <a href="https://wiki.57north.org.uk/">the Wiki</a> for more details and / or up-to-date information.</p>
+                <p>See also <a href="https://wiki.57north.org.uk/" title="wiki home page">the Wiki</a> for more details and / or up-to-date information and <a href="https://wiki.57north.org.uk/doku.php?id=space:howto" title="wiki page on how to do things in the hackspace">Howto: Hackerspace</a></p>
 
             </div>
         </div><!-- row -->    
