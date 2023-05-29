@@ -24,7 +24,10 @@ include('header.php'); ?>
         <div class="row">
             <div class="col-md-12">
                 <h2>The layout</h2>
-                <p><img src="/img/our_space_layout.svg" alt="A layout diagram of our space"></p>
+                <p>&nbsp;</p>
+                <img src="/img/our_space_layout.svg" style="width: 100%;" alt="A layout diagram of our space">
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
             </div>
         </div><!-- row -->
 
@@ -76,7 +79,7 @@ include('header.php'); ?>
                 <p>The 3d printer lives here, with all the printer material in the cupboard beside it.</p>
 
                 <h2>Vinyl cutter</h2>
-                <p>The vinyl cutter is useful for signs and stencils..</p>
+                <p>The vinyl cutter is useful for signs and stencils.</p>
 
                 <h2>Music & lights</h2>
                 <p>We've a pair of CDJs and a mixer, with a lighting rig.</p>
