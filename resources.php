@@ -20,6 +20,8 @@ include('header.php'); ?>
                     <li><a href="https://edinburghhacklab.com/" target="_blank">Edinburgh Hacklab</a></li>
                     <li><a href="https://www.tog.ie/" target="_blank">Tog Hackerspace, The Dublin Hackerspace</a></li>
                     <li><a href="https://www.dundeemakerspace.com/" target="_blank">Dundee Makerspace</a></li>                    
+                    <li><a href="https://electronclub.org/" target="_blank">Electron Club (Glasgow)</a></li>   
+                    <li><a href="https://www.moraymakerspace.com/" target="_blank">T-Exchange: Moray Makerspace</a></li>   
                 </ul>
 
                 <h2>Hacklab and Hackspace related Orgs</h2>
@@ -72,6 +74,8 @@ include('header.php'); ?>
                     <li><a href="https://throwupgallery.com" target="_blank">throwupgallery</a></li>
                     <li><a href="https://lookagainaberdeen.co.uk/" target="_blank">Look Again</a></li>
                     <li><a href="https://www.ghat-art.org.uk/" target="_blank">Grampian Hospitals Art Trust (GHAT)</a></li>
+                    <li><a href="https://www.cultureaberdeen.org/" target="_blank">Culture Aberdeen</a></li>
+                    <li><a href="https://www.shmu.org.uk/" target="_blank">Station House Media Unit (shmu)</a></li>                   
                     <li><a href="https://hospitalfield.org.uk/" target="_blank">Hospitalfield</a></li>
                     
                 </ul>
