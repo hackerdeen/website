@@ -16,6 +16,7 @@ RewriteRule ^sponsors$ sponsors.php [L]
 RewriteRule ^membership$ membership.php [L]
 RewriteRule ^our-space$ our-space.php [L]
 RewriteRule ^resources$ resources.php [L]
+RewriteRule ^equality-and-diversity equality-and-diversity.php [L]
 
 RewriteRule ^wiki_logo.png$ - [L]
 
