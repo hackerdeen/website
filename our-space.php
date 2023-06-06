@@ -44,7 +44,7 @@ include('header.php'); ?>
                 <p>There ar lots of varying sized draws for electrical components and other consumables here.</p>
                 
                 <h2>Fasteners</h2>
-                <p>All the nuts, bolds, screws, fasteners and fixings you'll ever need, with a bit of luck.</p> 
+                <p>All the nuts, bolts, screws, fasteners and fixings you'll ever need, with a bit of luck.</p> 
                 
                 <h2>Cutting & finishing</h2>
                 <p>This section of the space is for more dirty making work, with Dremels, a pillar drill and bandsaw here.</p>
