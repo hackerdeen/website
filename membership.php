@@ -17,9 +17,9 @@ include('header.php'); ?>
 
                 <p>Of course there would not be a hacklab were it not for our members. Our membership spans many technical fields with those that have knowledge and experience and also those that wish to learn. The hacklab exists for everyone that would like to use it. We welcome everyone, and enthusiastically celebrate diversity.</p>
 
-                <p><a href="/57North Membership Form.pdf" title="Membership Form">Anyone</a> is welcome to join 57North hacklab. We recommend that you visit us a few times on Open Tuesday first to get a feel for the community and meet some friendly faces!</p>
+                <p><a href="/equality-and-diversity" title="Diversity Statement">Anyone</a> is welcome to join 57North hacklab. We recommend that you visit us a few times on Open Tuesday first to get a feel for the community and meet some friendly faces!</p>
 
-                <p>Once you know you want to join, to fill out our membership form link tba. The board will acknowledge your application and confirm whether it has been accepted within a week.</p>
+                <p>Once you know you want to join, fill out our membership form <a href="/57North Membership Form.pdf" title="Membership Form">here</a>. The board will acknowledge your application and confirm whether it has been accepted within a week.</p>
 
                 <p>Membership costs £20 per month.</p>
 
@@ -31,6 +31,7 @@ include('header.php'); ?>
 
                 <p>Remote members have the same benefits as above, but we reserve the right to not issue with a key, or only temporarily grant you a key to allow access when you are within 80km of Aberdeen.</p>
 
+                <p>We use the same membership form <a href="/57North Membership Form.pdf" title="Membership Form">here</a> for remote members.</p>
             </div>
             <div class="col-md-6">
 
