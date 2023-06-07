@@ -41,7 +41,7 @@ include('header.php'); ?>
                 <p>We've a great selection of hand tools and power tools.</p>
 
                 <h2>Components</h2>
-                <p>There ar lots of varying sized draws for electrical components and other consumables here.</p>
+                <p>There ar lots of varying sized drawers for electrical components and other consumables here.</p>
                 
                 <h2>Fasteners</h2>
                 <p>All the nuts, bolts, screws, fasteners and fixings you'll ever need, with a bit of luck.</p> 
