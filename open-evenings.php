@@ -23,7 +23,7 @@ include('header.php'); ?>
                     Usually, every Tuesday, there is a email out, so it's worth checking the 
                     <a href="https://lists.57north.org.uk/mailman3/hyperkitty/list/57north-announce@lists.57north.org.uk/">announce</a>
                     and 
-                    <a href="https://lists.57north.org.uk/mailman3/hyperkitty/list/57north-discus@lists.57north.org.uk/">discus</a>
+                    <a href="https://lists.57north.org.uk/mailman3/hyperkitty/list/57north-discus@lists.57north.org.uk/">discuss</a>
                     mailing lists.
                 </p>        
                 
