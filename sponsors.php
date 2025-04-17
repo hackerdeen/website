@@ -14,6 +14,11 @@
 			<p>We would like to thank Bitfolk Ltd for their kind sponsorship providing a virtual private server for our space. Having a virtual private server hosted in a datacenter allows us to have services like our website and email run reliably even when the local server is unplugged by an unwitting member to plug in their fusion generator.</p>
 			<p>BitFolk are a UK based virtual private server provider, and you can find out more about them on their <a href="http://www.bitfolk.com/" target="_blank">website</a>.</p>
 
+			<h3><span id="inferno">Inferno Communications</span></h3>
+			<img src="/img/inferno.svg" style="max-width: 300px;" class="alignright imageborder">
+			<p>We would like to thank Inferno Communications for their kind sponsorship of our telephony, providing us with our phone number and SIP connection.</p>
+			<p>Inferno Communications are a UK based telephony provider, and you can find out more about them on their <a href="https://inferno.co.uk/" target="_blank">website</a>.</p>
+		
 			<h2 class="section-title" style="clear:both;">Sponsor Us</h2>
 			<p>We're always looking for new sponsors either on an ongoing basis or for our individual events. <a href="mailto:contact@57north.org.uk">Contact us</a> for more information.</p>
 			
