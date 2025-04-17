@@ -122,6 +122,7 @@
 					<h2 class="section-title">Sponsors</h2>
 					<a href="/sponsors#aaisp"><img style="height: 80px;" src="/img/andrews_and_arnold_logo.png" alt="AAISP: Andrews & Arnold Ltd"></a>
 					<a href="/sponsors#bitfolk"><img style="height: 80px;" src="/img/bitfolk.gif" alt="Bitfolk Limited"></a>
+					<a href="/sponsors#inferno"><img style="height: 80px;" src="/img/inferno.svg" alt="Inferno Communications"></a>
 					<br>You can find more information about our sponsors, including the services they provide to us, on our <a href="/sponsors">sponsors page</a>.
 				</div>
 			</div>
