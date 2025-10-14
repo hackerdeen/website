@@ -15,7 +15,7 @@ include('header.php'); ?>
 
                 <h2>Open Evening, Every Tuesday</h2>
 
-                <p>Every week on a Tuesday evening the Hacklab is open to all.  Come along from around 7pm if you're keen to find out more about 57North Hacklab.  
+                <p>Every week on a Tuesday evening the Hacklab is open to all.  Come along from around 8pm if you're keen to find out more about 57North Hacklab.  
 
                 <p>Tuesday is usually the busiest evening at the space and is often more focussed on socialising, sharing ideas and helping each other.</p>
 
@@ -30,9 +30,15 @@ include('header.php'); ?>
                 <p>There are some details on getting here by various means on the <a href="/contact" title="57 North contact page">contact page</a>.</p>
 
                 <h2>Upcoming Open Evenings</h2>
-                <p>The next 10 Tuesdays are...</p>
+                <p>The next few Tuesdays are...</p>
                 <ul>
-                    <li><?php echo date('jS \of F Y', strtotime('next tuesday')); ?></li>
+                    <li><?php 
+                        if ( date('N') == 2 ) {
+                            echo "Today! Since it's Tuesday today, it's open evening today"; 
+                        } else {
+                            echo date('jS \of F Y', strtotime('next tuesday')); 
+                        }
+                    ?></li>
                     <li><?php echo date('jS \of F Y', strtotime('+1 weeks tuesday')); ?></li>
                     <li><?php echo date('jS \of F Y', strtotime('+2 weeks tuesday')); ?></li>
                     <li><?php echo date('jS \of F Y', strtotime('+3 weeks tuesday')); ?></li>
