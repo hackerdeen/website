@@ -19,9 +19,9 @@
                     <div class="col-md-6">
                         <h3 class="footer-widget-title">Coms</h3>
                         <p>Mailing lists: 
-                            <a href="https://lists.57north.org.uk/mailman3/hyperkitty/list/57north-discuss@lists.57north.org.uk/"  target="_blank">57north-discuss</a> 
+                            <a href="https://lists.57north.org.uk/mailman3/postorius/lists/57north-discuss.lists.57north.org.uk/"  target="_blank">57north-discuss</a> 
                             and 
-                            <a href="https://lists.57north.org.uk/mailman3/hyperkitty/list/57north-announce@lists.57north.org.uk/" target="_blank">57north-announce</a>.
+                            <a href="https://lists.57north.org.uk/mailman3/postorius/lists/57north-announce.lists.57north.org.uk/" target="_blank">57north-announce</a>.
                         </p>
                         <p>IRC: #57N on irc.libera.chat.</p>
                         <p>Location: 57North Hacklab, c/o Aberdeen Action on Disability, Suite H, Kettock Lodge, Innovation Park, Campus Two, Bridge of Don, Aberdeen AB22 8GU.</p>
