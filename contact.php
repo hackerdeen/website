@@ -26,8 +26,6 @@
 </td></tr>
 <tr><th valign="top">IRC Channel</th><td><p>When not in the space, the online meeting place is <strong>#57N</strong> on <strong>irc.libera.chat</strong>. For more details, see our <a href="https://wiki.57north.org.uk/doku.php/resources/software/irc">IRC pages on the wiki</a>.</p>
 </td></tr>
-<tr><th valign="top">workadventure</th><td><p>workadventure is an online virtual space to interact, 57N people are often online there on Tuesaday and Friday evenings, see our <a href="https://wa.tabascoeye.de/_/global/raw.githubusercontent.com/ScottishConsulate/scotconmap/master/main.json">57N workadventure place</a>.</p>
-</td></tr>
 </table>
 <br>
 
